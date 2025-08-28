@@ -81,6 +81,10 @@ file = "logo.png"
 hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
 
 [[files]]
+file = "mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
+hash = "51af4a4145c6f9c97de2bea2af33552ca0594f01cd051c71054996232fb26df0"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
 metafile = true
@@ -200,11 +204,6 @@ file = "mods/create-fabric-1.20.1-6.0.7.0+mc1.20.1-build.1693.jar"
 hash = "80aec1de3b1d6850690f979c62cf705a4978b126e0c286d87eb18cdf71173f57"
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
@@ -237,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "5525baa8ad75041025127697dfb53232afee87c23ed56517f10577d3eaa04ec2"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
 metafile = true
 
 [[files]]
@@ -347,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
