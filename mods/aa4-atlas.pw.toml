@@ -1,0 +1,13 @@
+name = "AA4 Atlas"
+filename = "aa4-atlas-1.1.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aR9FhY20/versions/TGBWJ5SJ/aa4-atlas-1.1.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "a6539d00e0e3e4e14cf42cec44edc5d8657f40d26107e2f74c455988422075cee5f23a6c2db1596317e3c612618772a656f66318cb3b9add3b4180ff83533f92"
+
+[update]
+[update.modrinth]
+mod-id = "aR9FhY20"
+version = "TGBWJ5SJ"

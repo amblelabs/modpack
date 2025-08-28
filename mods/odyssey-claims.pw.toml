@@ -1,0 +1,13 @@
+name = "Odyssey Claims"
+filename = "cadmus-fabric-1.20.1-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/kzMsPbNB/cadmus-fabric-1.20.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "c537bacf8cc2d34290cb243c5eda40c9bef5374b0f159198444d3b8666771fbed243dd4c504e03be493afb4350f5d2c585cb582422e165236be432c148321b65"
+
+[update]
+[update.modrinth]
+mod-id = "fEWKxVzh"
+version = "kzMsPbNB"

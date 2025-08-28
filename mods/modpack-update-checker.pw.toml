@@ -1,0 +1,13 @@
+name = "Modpack Update Checker"
+filename = "modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/LVoowSbQ/modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+hash-format = "sha512"
+hash = "7678c4c0f5aa90357ac36d1ce3cb6a1ecb7ae5db7d7a08d6b2e7fdce90a32bf6c69142441545b8f7823c165736e3446e307cc3a5c63eb091e49258c4b8df9523"
+
+[update]
+[update.modrinth]
+mod-id = "rR4tY6Cw"
+version = "LVoowSbQ"

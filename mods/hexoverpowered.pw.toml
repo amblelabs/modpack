@@ -1,0 +1,13 @@
+name = "HexOverpowered"
+filename = "HexOverpowered-fabric-1.20.1-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PkhtCPsD/versions/xa4p46bH/HexOverpowered-fabric-1.20.1-0.8.2.jar"
+hash-format = "sha512"
+hash = "e48636fab5e7901178069c66bed7c7dfc7936f594d8b1a2318c5a88308502b4cbab4e2f100643e44e8102f904994090899129f7cbdb5ddc08f75300a3194d511"
+
+[update]
+[update.modrinth]
+mod-id = "PkhtCPsD"
+version = "xa4p46bH"

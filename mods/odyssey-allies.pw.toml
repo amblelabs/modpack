@@ -1,0 +1,13 @@
+name = "Odyssey Allies"
+filename = "argonauts-fabric-1.20.1-1.0.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/wLI6JsqG/argonauts-fabric-1.20.1-1.0.10.jar"
+hash-format = "sha512"
+hash = "f2685c6c9c388584ed2aad37187ae08087d617b269a3454b533449fd27e9f21ad0202b6c768821e91801934df0c584879965ba3a87a8d649a6a073235016108d"
+
+[update]
+[update.modrinth]
+mod-id = "bb2EpKpx"
+version = "wLI6JsqG"

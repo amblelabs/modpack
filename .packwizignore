@@ -1,0 +1,6 @@
+README.md
+.envrc
+shell.nix
+.direnv
+*.disabled
+updates

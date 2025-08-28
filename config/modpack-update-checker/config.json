@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 6,
+  "currentVersion": "0.0.0",
+  "modpackName": "AIT Modpack De-Loqorified",
+  "modpackAuthor": "DrTheo_",
+  "modpackReleaseType": "alpha",
+  "githubRepo": "https://raw.githubusercontent.com/amblelabs/modpack/updates/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "addButton": true,
+    "mainMenuCreditsIntegration": true,
+    "modpackMods": []
+  }
+}
