@@ -70,7 +70,7 @@ hash = "64e041ef5bcf3d47ce6721a137b75b0004361b0a14f6d7ed318d7e4691a420a3"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b6ebcbf0660d9e4d04fff4be97d1c31cabced6cab71a9914486108a9e30b4811"
+hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -459,6 +459,11 @@ hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
@@ -632,6 +637,14 @@ metafile = true
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
+hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
+
+[[files]]
+file = "resourcepacks/modpack/pack.mcmeta"
+hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
