@@ -459,8 +459,8 @@ hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
@@ -481,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
+metafile = true
+
+[[files]]
+file = "mods/nrb.pw.toml"
+hash = "01fbfe47f46c3d24169084576e6bd4f622a45660a6dd6259f82d4ad61073d762"
 metafile = true
 
 [[files]]
@@ -624,9 +629,8 @@ hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
-file = "mods/yet-another-furniture.pw.toml"
-hash = "1114f2e33bcd6f57fc6aa7afdb6251b2dd385b7a7fa642373baf6cd8a1107617"
-metafile = true
+file = "mods/yet-another-furniture-1.0pre3+fabric-1.20.1.jar"
+hash = "39277ae7f0ca85e865bd82bdd58fe603bcfec055b32a4b53d544b727afeb6b72"
 
 [[files]]
 file = "mods/yosbr.pw.toml"
