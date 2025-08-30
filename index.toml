@@ -1,6 +1,1526 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build/build.bat"
+hash = "335a87959ea443204e00a9895564c3033b10d2cca2bcce2829d42d2e7c7259ca"
+
+[[files]]
+file = "build/build/build.bat"
+hash = "335a87959ea443204e00a9895564c3033b10d2cca2bcce2829d42d2e7c7259ca"
+
+[[files]]
+file = "build/build/build/build.bat"
+hash = "335a87959ea443204e00a9895564c3033b10d2cca2bcce2829d42d2e7c7259ca"
+
+[[files]]
+file = "build/build/build/config/fancymenu/assets/empty.png"
+hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
+
+[[files]]
+file = "build/build/build/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "build/build/build/config/fancymenu/customizablemenus.txt"
+hash = "67c3830dc15adea309b6370739bd7f4c2d8b7375e094a7cb5fb60a652b0ff09d"
+
+[[files]]
+file = "build/build/build/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "3c1f861c7595b5f96ef861bc495342e0ebcf6c93bab04d8d875bf5d5fcd9bdb2"
+
+[[files]]
+file = "build/build/build/config/fancymenu/customization/pause_screen_layout.txt"
+hash = "eb34191004540e6c70afb10375792aff93577530f321347bb2e2808bf6e581aa"
+
+[[files]]
+file = "build/build/build/config/fancymenu/customization/title_screen_layout.txt"
+hash = "71de0836f84c05c1422d173d45a3bbebb477a6221eb4cd31b5bc92a93846715c"
+
+[[files]]
+file = "build/build/build/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "build/build/build/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "build/build/build/config/fancymenu/options.txt"
+hash = "3a0cd8e2ca66e6fe06d89d57fc71fd75f4b5650e9844aed7b3e2633fd2fa9b18"
+
+[[files]]
+file = "build/build/build/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "build/build/build/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "build/build/build/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "build/build/build/config/item_obliterator.json5"
+hash = "a0109a0224447166ba7723dc2d79ce8e32639c2589518d7b58f6886ffaf0a442"
+
+[[files]]
+file = "build/build/build/config/modpack-update-checker.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "build/build/build/config/modpack-update-checker/config.json"
+hash = "857b1db2a3707f987bed20b6e96815cad8b64c04d79cb3e207b899aa0a33c2b8"
+
+[[files]]
+file = "build/build/build/config/yosbr/config/ait-client.json5"
+hash = "ef4cfc0b3c5cb8779e7a734b5ad68a4491140217806c95bd0ae495cb7305dffc"
+
+[[files]]
+file = "build/build/build/config/yosbr/config/ait-server.json5"
+hash = "183a18982d711eb14105c3b876cbb54c864776861b67d768c6266d2aec9694b1"
+
+[[files]]
+file = "build/build/build/config/yosbr/config/modmenu.json"
+hash = "64e041ef5bcf3d47ce6721a137b75b0004361b0a14f6d7ed318d7e4691a420a3"
+
+[[files]]
+file = "build/build/build/config/yosbr/figura.json"
+hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
+
+[[files]]
+file = "build/build/build/config/yosbr/options.txt"
+hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
+
+[[files]]
+file = "build/build/build/config/yosbr/servers.dat"
+hash = "39527772044133e94d4af337e6892aeeb2bd45f6903084c321c5e0b90170120d"
+
+[[files]]
+file = "build/build/build/logo.png"
+hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
+
+[[files]]
+file = "build/build/build/mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
+hash = "0382a9e1334cb736c4f0d86cf0d002106d6a98453a709950ebbf0e939831ea72"
+
+[[files]]
+file = "build/build/build/mods/Botania-1.20.1-450-FABRIC.jar"
+hash = "c49ea14e55c46d4097c9f9a05a43ede16c082eda6f408e69bd1f2c9e5bb0d44d"
+
+[[files]]
+file = "build/build/build/mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
+hash = "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7"
+
+[[files]]
+file = "build/build/build/mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
+hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
+
+[[files]]
+file = "build/build/build/mods/Debugify-1.20.1+2.0.jar"
+hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
+
+[[files]]
+file = "build/build/build/mods/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar"
+hash = "0656d7410684947dcd3c53c4c6e2808bbde1fd91481fe3425a3038602a39b989"
+
+[[files]]
+file = "build/build/build/mods/FarmersDelight-1.20.1-2.4.0+refabricated.jar"
+hash = "bbfd5fde5946a6a48fe82e92c1b50a90a345ef254df29ad4265b09e1e2c15450"
+
+[[files]]
+file = "build/build/build/mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar"
+hash = "5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56"
+
+[[files]]
+file = "build/build/build/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+hash = "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc"
+
+[[files]]
+file = "build/build/build/mods/HexOverpowered-fabric-1.20.1-0.8.2.jar"
+hash = "63dd2bc5a24fe27d24c723f34fd6a1acce5f639c4a2b45433e28f7942656e92d"
+
+[[files]]
+file = "build/build/build/mods/Icterine-fabric-1.20.0-1-1.3.0.jar"
+hash = "2069791775c6e65b35f2d811b19f8c15dce2851069913f82512502c3d24aaafe"
+
+[[files]]
+file = "build/build/build/mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
+hash = "64bf81726963996f1c3e1404e9058c352daf6bcdf96f931f75da66a2869cb9c2"
+
+[[files]]
+file = "build/build/build/mods/Jade-1.20-Fabric-11.13.1.jar"
+hash = "02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c"
+
+[[files]]
+file = "build/build/build/mods/Ksyxis-1.2.0.jar"
+hash = "f42e067595bd9b96cc9714942c7b26ccba1b723fd443150ec87ba8349a05ad50"
+
+[[files]]
+file = "build/build/build/mods/LuckPerms-Fabric-5.4.102.jar"
+hash = "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582"
+
+[[files]]
+file = "build/build/build/mods/Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
+hash = "d682d4f8e8c9ed3f98170ab857610baaa8ad45c5a0113fd35fc00a91e29f5bc7"
+
+[[files]]
+file = "build/build/build/mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
+hash = "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+
+[[files]]
+file = "build/build/build/mods/Patchouli-1.20.1-84.1-FABRIC.jar"
+hash = "4f53d46291e1277303e91ff344d97b01847711d8c84f1a6d79f037d03a3b0578"
+
+[[files]]
+file = "build/build/build/mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+
+[[files]]
+file = "build/build/build/mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
+hash = "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5"
+
+[[files]]
+file = "build/build/build/mods/Slate_Work-1.0.2.jar"
+hash = "28293b4cd576bafacb4231a773cb9d430eb718b5deccf7313ea7e28a70e10417"
+
+[[files]]
+file = "build/build/build/mods/Steam_Rails-fabric-1.20.1-1.6.12-alpha-1.20_create-v6+fabric-mc1.20.1-build.1575.jar"
+hash = "b9280c9f2ecf176ebcf762cd87f27baf8436887336b221d58e9457bbd4f23ea2"
+
+[[files]]
+file = "build/build/build/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "build/build/build/mods/aa4-atlas-1.1.2+1.20.jar"
+hash = "b1ad37a2814ed85b7b360f69a67249189ce192ac7189520506242150257eb67c"
+
+[[files]]
+file = "build/build/build/mods/ad_astra-fabric-1.20.1-1.15.20.jar"
+hash = "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246"
+
+[[files]]
+file = "build/build/build/mods/ait-1.2.11.2825-1.20.1-release.jar"
+hash = "3e084f6c6cd4c975e9c564e9231b8e82cdfd70b7ff07fec9e65006b7d7786a59"
+
+[[files]]
+file = "build/build/build/mods/ait-extras-1.0.1-1.20.1-release.jar"
+hash = "5dab71a33bc0945aa623db94305c7e941eb23756b448dae07436fb899d63e4b9"
+
+[[files]]
+file = "build/build/build/mods/almanac-1.20.x-fabric-1.0.2.jar"
+hash = "2c0ea8c3f9f7ca0b4a1d93328ecb26b1bfa00cf33d09d0089d197b707bf97a73"
+
+[[files]]
+file = "build/build/build/mods/alternate-current-mc1.20-1.9.0.jar"
+hash = "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515"
+
+[[files]]
+file = "build/build/build/mods/amble-1.1.8.93-1.20.1-beta.jar"
+hash = "89e3c06721f082ac1e7385f2ff53316d9ac8f630692ac9c19ed7c44422d79afd"
+
+[[files]]
+file = "build/build/build/mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
+hash = "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5"
+
+[[files]]
+file = "build/build/build/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "build/build/build/mods/argonauts-fabric-1.20.1-1.0.10.jar"
+hash = "81f4cca84aee79231bfcf3fd8abc083cd3540b63bdac2e32f7a7ac2929384799"
+
+[[files]]
+file = "build/build/build/mods/balm-fabric-1.20.1-7.3.34.jar"
+hash = "56450c711253f4789c2072b3b0d078ee6389bdbff4e2bf94fd9604df01719871"
+
+[[files]]
+file = "build/build/build/mods/bewitchment-1.20-10.jar"
+hash = "2cfabf215187a720c87cf04ea55791eb5a2d5894c242584a280c503e54df2d79"
+
+[[files]]
+file = "build/build/build/mods/botarium-fabric-1.20.1-2.3.4.jar"
+hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
+
+[[files]]
+file = "build/build/build/mods/cadmus-fabric-1.20.1-1.0.8.jar"
+hash = "9364fe70f6e129a9424698fbe0718758757e97fa547dfa8abffc5836ccb40e44"
+
+[[files]]
+file = "build/build/build/mods/cardinal-components-api-5.2.3.jar"
+hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+
+[[files]]
+file = "build/build/build/mods/chipped-fabric-1.20.1-3.0.7.jar"
+hash = "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330"
+
+[[files]]
+file = "build/build/build/mods/cloth-config-11.1.136-fabric.jar"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
+
+[[files]]
+file = "build/build/build/mods/collective-1.20.1-8.3.jar"
+hash = "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301"
+
+[[files]]
+file = "build/build/build/mods/create-fabric-1.20.1-6.0.7.0+mc1.20.1-build.1693.jar"
+hash = "80aec1de3b1d6850690f979c62cf705a4978b126e0c286d87eb18cdf71173f57"
+
+[[files]]
+file = "build/build/build/mods/doubledoors-1.20.1-7.1.jar"
+hash = "19277090b1f09717dcf044b6595dfbb63320ecd50b13f0318f91d889a57eb7dd"
+
+[[files]]
+file = "build/build/build/mods/dungeons-and-taverns-3.0.3.f.jar"
+hash = "1da45baa734df73b1aa46f0b3f319b051c26507a911ec52bfcb1ccae6930e4f0"
+
+[[files]]
+file = "build/build/build/mods/dungeons-and-taverns-stronghold-rework-1.jar"
+hash = "d9aab87341c8579b9621dc41230385679e249cfa99d04ae0e0ec27ec15174467"
+
+[[files]]
+file = "build/build/build/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+hash = "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0"
+
+[[files]]
+file = "build/build/build/mods/fabric-api-0.92.6+1.20.1.jar"
+hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
+
+[[files]]
+file = "build/build/build/mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar"
+hash = "c1a8fbb4e4ef6a7211cdef70431795a4e6d453fe5713fb12c1e6279d64aaad84"
+
+[[files]]
+file = "build/build/build/mods/fancymenu_fabric_3.7.0_MC_1.20.1.jar"
+hash = "cbd9b635daac59475fd0b7ee302797804c7ee6f915a5c5ef07d1f5275e8acc7a"
+
+[[files]]
+file = "build/build/build/mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "build/build/build/mods/fzzy_config-0.7.2+1.20.1.jar"
+hash = "dabf4f55946d6789a599e10657cce709c1be96b312edc471989a3b3af6f25fe2"
+
+[[files]]
+file = "build/build/build/mods/getittogetherdrops-fabric-1.20-1.3.1.jar"
+hash = "76cdc906aa424a012595a5594861d6d561306cb168bf23090003b861eaabe003"
+
+[[files]]
+file = "build/build/build/mods/gottagofast-1.2.0+1.20.jar"
+hash = "f3f721cc83e147a0b35b72bd1065cffcd50a11c949c5c2a207ad92bba1bd32af"
+
+[[files]]
+file = "build/build/build/mods/hexParse-fabric-1.20.1-1.3.0.jar"
+hash = "bb28c21243c2af960fcc23e674f6c9b42927a4116fbfe965677ef51c03d07f30"
+
+[[files]]
+file = "build/build/build/mods/hex_machina-1.0.1.jar"
+hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
+
+[[files]]
+file = "build/build/build/mods/hexcassettes-1.1.4.jar"
+hash = "84718bb7c4d114c74f3f4aaf6de005e110b9f71c3538e6b63bffc1b7a6390b15"
+
+[[files]]
+file = "build/build/build/mods/hexcasting-fabric-1.20.1-0.11.2.jar"
+hash = "e19bcf40b333c1f27cf289dba84fa8fb7bc4fa6769d474f13a5b3a9d59dc57ad"
+
+[[files]]
+file = "build/build/build/mods/hexcellular-1.0.4.jar"
+hash = "71232a2e48d8f798a6326976727f565718e58cc3f212eb55e90be4201c6a2c42"
+
+[[files]]
+file = "build/build/build/mods/hexchanting-1.1.3.jar"
+hash = "c4033c839559d6c3301e9aac025e676be285f6257a6fc07a44cdcff192854e9a"
+
+[[files]]
+file = "build/build/build/mods/hexical-1.5.0.jar"
+hash = "c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2"
+
+[[files]]
+file = "build/build/build/mods/hexpose-1.0.0.jar"
+hash = "83a6e411b0a952234d72bfc2c348fc6ea2aec88b211532d088c72d38e93a05d0"
+
+[[files]]
+file = "build/build/build/mods/hexthingy-1.0.1.jar"
+hash = "291962079668166d8c7ccf59a91e8ab9f154c66aa2bcda2a20037225aea66678"
+
+[[files]]
+file = "build/build/build/mods/hexxy-dimensions-1.3.0.jar"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
+
+[[files]]
+file = "build/build/build/mods/hexxyattributes-1.0.jar"
+hash = "635a2a33e1259438f5cd663489fad67d2f6d61001441c8b484780ad8dc52ed91"
+
+[[files]]
+file = "build/build/build/mods/hierophantics-fabric-1.3.0.jar"
+hash = "d2c0076e6fca500bce9e7910d68165ea0903d9a430a0a928f16c7e763083b751"
+
+[[files]]
+file = "build/build/build/mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
+hash = "c4e179c4ff707963512454d0045ffc4953fd0862079c45d82f2ba30630c2718f"
+
+[[files]]
+file = "build/build/build/mods/jei-1.20.1-fabric-15.20.0.112.jar"
+hash = "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17"
+
+[[files]]
+file = "build/build/build/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+hash = "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6"
+
+[[files]]
+file = "build/build/build/mods/krypton-0.2.3.jar"
+hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
+
+[[files]]
+file = "build/build/build/mods/letmedespawn-1.20.x-fabric-1.5.0.jar"
+hash = "6fa924944e2adf5f6fabc7b29980c1ec6bbe02cb58646f32e544d066e91e8593"
+
+[[files]]
+file = "build/build/build/mods/lithium-fabric-mc1.20.1-0.11.3.jar"
+hash = "3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be"
+
+[[files]]
+file = "build/build/build/mods/lithostitched-fabric-1.20.1-1.4.11.jar"
+hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
+
+[[files]]
+file = "build/build/build/mods/lootr-fabric-1.20-0.7.35.85.jar"
+hash = "1c426f2df95c4cc06a4ce1af547e9a93baefb4ec487ab9672e4ca53565e6d85c"
+
+[[files]]
+file = "build/build/build/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "build/build/build/mods/modernfix-fabric-5.24.4+mc1.20.1.jar"
+hash = "89c7ff6cd46449b080acca82e3df414de3a31b9f831b82c52b58d6ec9eacfc14"
+
+[[files]]
+file = "build/build/build/mods/modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+hash = "cef3bf3d5a41dfeee4001390b6f407b2c21c4adae049bb6f3f014e5e9046958a"
+
+[[files]]
+file = "build/build/build/mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
+hash = "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d"
+
+[[files]]
+file = "build/build/build/mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar"
+hash = "3d6184d1a008997810de492ff506cb4696a541fffcdc8028558936b68234f1df"
+
+[[files]]
+file = "build/build/build/mods/owo-lib-0.11.2+1.20.jar"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+
+[[files]]
+file = "build/build/build/mods/paucal-0.6.0+1.20.1-fabric.jar"
+hash = "5cce226aec79dd5b70006bdf3746e639f53d4f674b97fec3c0630515e070f3c7"
+
+[[files]]
+file = "build/build/build/mods/redirected-fabric-1.0.0-1.20.1.jar"
+hash = "ab05289da98c657e4091193bf51e6cafeed15942ceca09818f7a6b884d0c8a34"
+
+[[files]]
+file = "build/build/build/mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar"
+hash = "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a"
+
+[[files]]
+file = "build/build/build/mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
+hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+
+[[files]]
+file = "build/build/build/mods/servertick-mc1.20-1.8.jar"
+hash = "17fed4a25192e8b0c80fc6d9fbaaeb9648f4308ed60c313773be9025e0a8c2ed"
+
+[[files]]
+file = "build/build/build/mods/simplehats-fabric-1.20.1-0.3.2.jar"
+hash = "ea28720c48cc15f526339a9961f79858584f1d959c5e4d41938870b3ce1fa5fc"
+
+[[files]]
+file = "build/build/build/mods/spark-1.10.53-fabric.jar"
+hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
+
+[[files]]
+file = "build/build/build/mods/styled-chat-2.2.4+1.20.1.jar"
+hash = "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418"
+
+[[files]]
+file = "build/build/build/mods/surveyor-0.6.26+1.20.jar"
+hash = "756338c927bab2af07da18a6b80e662c185f4377cdba284aec4dcd7ae9a97e20"
+
+[[files]]
+file = "build/build/build/mods/tectonic-3.0.12-fabric-1.20.1.jar"
+hash = "1691165c23ea6c8abe9e30f724adbba6ec9ebd5215c807e2c3b75cb0a5891c85"
+
+[[files]]
+file = "build/build/build/mods/trashslot-fabric-1.20-15.1.1.jar"
+hash = "0904c89525bc3de1090de2bbf3d423cfd4199ea568344fbf31d019ee40d12e71"
+
+[[files]]
+file = "build/build/build/mods/trinketlantern-1.0.1.jar"
+hash = "e3d1033aab63d12d6364310119453804e2e8c49af520acf6a4fa2c13e91590a8"
+
+[[files]]
+file = "build/build/build/mods/trinkets-3.7.2.jar"
+hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+
+[[files]]
+file = "build/build/build/mods/txnilib-fabric-1.0.24-1.20.1.jar"
+hash = "b1d2848cc92f94bd3c0786e68ce0e7d750c53d3b0a82bc61603d0db2753ff355"
+
+[[files]]
+file = "build/build/build/mods/voicechat-fabric-1.20.1-2.5.35.jar"
+hash = "d77621fb932776450a63921e75ad3cba327376521d5a99ab026d6d30d9645893"
+
+[[files]]
+file = "build/build/build/mods/yet-another-furniture-1.0pre3+fabric-1.20.1.jar"
+hash = "39277ae7f0ca85e865bd82bdd58fe603bcfec055b32a4b53d544b727afeb6b72"
+
+[[files]]
+file = "build/build/build/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+hash = "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac"
+
+[[files]]
+file = "build/build/build/mods/yosbr-0.1.2.jar"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[[files]]
+file = "build/build/build/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "build/build/build/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "build/build/build/packwiz.json"
+hash = "0903544fe7cb975d3cbe1e39bd5d5b045d5d6e207021c1a5e25e2742135676fa"
+
+[[files]]
+file = "build/build/build/resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
+hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
+
+[[files]]
+file = "build/build/build/resourcepacks/modpack/pack.mcmeta"
+hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
+
+[[files]]
+file = "build/build/config/fancymenu/assets/empty.png"
+hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
+
+[[files]]
+file = "build/build/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "build/build/config/fancymenu/customizablemenus.txt"
+hash = "67c3830dc15adea309b6370739bd7f4c2d8b7375e094a7cb5fb60a652b0ff09d"
+
+[[files]]
+file = "build/build/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "3c1f861c7595b5f96ef861bc495342e0ebcf6c93bab04d8d875bf5d5fcd9bdb2"
+
+[[files]]
+file = "build/build/config/fancymenu/customization/pause_screen_layout.txt"
+hash = "eb34191004540e6c70afb10375792aff93577530f321347bb2e2808bf6e581aa"
+
+[[files]]
+file = "build/build/config/fancymenu/customization/title_screen_layout.txt"
+hash = "71de0836f84c05c1422d173d45a3bbebb477a6221eb4cd31b5bc92a93846715c"
+
+[[files]]
+file = "build/build/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "build/build/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "build/build/config/fancymenu/options.txt"
+hash = "3a0cd8e2ca66e6fe06d89d57fc71fd75f4b5650e9844aed7b3e2633fd2fa9b18"
+
+[[files]]
+file = "build/build/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "build/build/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "build/build/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "build/build/config/item_obliterator.json5"
+hash = "a0109a0224447166ba7723dc2d79ce8e32639c2589518d7b58f6886ffaf0a442"
+
+[[files]]
+file = "build/build/config/modpack-update-checker.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "build/build/config/modpack-update-checker/config.json"
+hash = "857b1db2a3707f987bed20b6e96815cad8b64c04d79cb3e207b899aa0a33c2b8"
+
+[[files]]
+file = "build/build/config/yosbr/config/ait-client.json5"
+hash = "ef4cfc0b3c5cb8779e7a734b5ad68a4491140217806c95bd0ae495cb7305dffc"
+
+[[files]]
+file = "build/build/config/yosbr/config/ait-server.json5"
+hash = "183a18982d711eb14105c3b876cbb54c864776861b67d768c6266d2aec9694b1"
+
+[[files]]
+file = "build/build/config/yosbr/config/modmenu.json"
+hash = "64e041ef5bcf3d47ce6721a137b75b0004361b0a14f6d7ed318d7e4691a420a3"
+
+[[files]]
+file = "build/build/config/yosbr/figura.json"
+hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
+
+[[files]]
+file = "build/build/config/yosbr/options.txt"
+hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
+
+[[files]]
+file = "build/build/config/yosbr/servers.dat"
+hash = "39527772044133e94d4af337e6892aeeb2bd45f6903084c321c5e0b90170120d"
+
+[[files]]
+file = "build/build/logo.png"
+hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
+
+[[files]]
+file = "build/build/mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
+hash = "0382a9e1334cb736c4f0d86cf0d002106d6a98453a709950ebbf0e939831ea72"
+
+[[files]]
+file = "build/build/mods/Botania-1.20.1-450-FABRIC.jar"
+hash = "c49ea14e55c46d4097c9f9a05a43ede16c082eda6f408e69bd1f2c9e5bb0d44d"
+
+[[files]]
+file = "build/build/mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
+hash = "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7"
+
+[[files]]
+file = "build/build/mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
+hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
+
+[[files]]
+file = "build/build/mods/Debugify-1.20.1+2.0.jar"
+hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
+
+[[files]]
+file = "build/build/mods/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar"
+hash = "0656d7410684947dcd3c53c4c6e2808bbde1fd91481fe3425a3038602a39b989"
+
+[[files]]
+file = "build/build/mods/FarmersDelight-1.20.1-2.4.0+refabricated.jar"
+hash = "bbfd5fde5946a6a48fe82e92c1b50a90a345ef254df29ad4265b09e1e2c15450"
+
+[[files]]
+file = "build/build/mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar"
+hash = "5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56"
+
+[[files]]
+file = "build/build/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+hash = "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc"
+
+[[files]]
+file = "build/build/mods/HexOverpowered-fabric-1.20.1-0.8.2.jar"
+hash = "63dd2bc5a24fe27d24c723f34fd6a1acce5f639c4a2b45433e28f7942656e92d"
+
+[[files]]
+file = "build/build/mods/Icterine-fabric-1.20.0-1-1.3.0.jar"
+hash = "2069791775c6e65b35f2d811b19f8c15dce2851069913f82512502c3d24aaafe"
+
+[[files]]
+file = "build/build/mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
+hash = "64bf81726963996f1c3e1404e9058c352daf6bcdf96f931f75da66a2869cb9c2"
+
+[[files]]
+file = "build/build/mods/Jade-1.20-Fabric-11.13.1.jar"
+hash = "02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c"
+
+[[files]]
+file = "build/build/mods/Ksyxis-1.2.0.jar"
+hash = "f42e067595bd9b96cc9714942c7b26ccba1b723fd443150ec87ba8349a05ad50"
+
+[[files]]
+file = "build/build/mods/LuckPerms-Fabric-5.4.102.jar"
+hash = "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582"
+
+[[files]]
+file = "build/build/mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
+hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
+
+[[files]]
+file = "build/build/mods/Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
+hash = "d682d4f8e8c9ed3f98170ab857610baaa8ad45c5a0113fd35fc00a91e29f5bc7"
+
+[[files]]
+file = "build/build/mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
+hash = "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+
+[[files]]
+file = "build/build/mods/Patchouli-1.20.1-84.1-FABRIC.jar"
+hash = "4f53d46291e1277303e91ff344d97b01847711d8c84f1a6d79f037d03a3b0578"
+
+[[files]]
+file = "build/build/mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+
+[[files]]
+file = "build/build/mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
+hash = "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5"
+
+[[files]]
+file = "build/build/mods/Slate_Work-1.0.2.jar"
+hash = "28293b4cd576bafacb4231a773cb9d430eb718b5deccf7313ea7e28a70e10417"
+
+[[files]]
+file = "build/build/mods/Steam_Rails-fabric-1.20.1-1.6.12-alpha-1.20_create-v6+fabric-mc1.20.1-build.1575.jar"
+hash = "b9280c9f2ecf176ebcf762cd87f27baf8436887336b221d58e9457bbd4f23ea2"
+
+[[files]]
+file = "build/build/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "build/build/mods/aa4-atlas-1.1.2+1.20.jar"
+hash = "b1ad37a2814ed85b7b360f69a67249189ce192ac7189520506242150257eb67c"
+
+[[files]]
+file = "build/build/mods/ad_astra-fabric-1.20.1-1.15.20.jar"
+hash = "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246"
+
+[[files]]
+file = "build/build/mods/ait-1.2.11.2825-1.20.1-release.jar"
+hash = "3e084f6c6cd4c975e9c564e9231b8e82cdfd70b7ff07fec9e65006b7d7786a59"
+
+[[files]]
+file = "build/build/mods/ait-extras-1.0.1-1.20.1-release.jar"
+hash = "5dab71a33bc0945aa623db94305c7e941eb23756b448dae07436fb899d63e4b9"
+
+[[files]]
+file = "build/build/mods/almanac-1.20.x-fabric-1.0.2.jar"
+hash = "2c0ea8c3f9f7ca0b4a1d93328ecb26b1bfa00cf33d09d0089d197b707bf97a73"
+
+[[files]]
+file = "build/build/mods/alternate-current-mc1.20-1.9.0.jar"
+hash = "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515"
+
+[[files]]
+file = "build/build/mods/amble-1.1.8.93-1.20.1-beta.jar"
+hash = "89e3c06721f082ac1e7385f2ff53316d9ac8f630692ac9c19ed7c44422d79afd"
+
+[[files]]
+file = "build/build/mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
+hash = "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5"
+
+[[files]]
+file = "build/build/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "build/build/mods/argonauts-fabric-1.20.1-1.0.10.jar"
+hash = "81f4cca84aee79231bfcf3fd8abc083cd3540b63bdac2e32f7a7ac2929384799"
+
+[[files]]
+file = "build/build/mods/athena-fabric-1.20.1-3.1.2.jar"
+hash = "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd"
+
+[[files]]
+file = "build/build/mods/balm-fabric-1.20.1-7.3.34.jar"
+hash = "56450c711253f4789c2072b3b0d078ee6389bdbff4e2bf94fd9604df01719871"
+
+[[files]]
+file = "build/build/mods/bewitchment-1.20-10.jar"
+hash = "2cfabf215187a720c87cf04ea55791eb5a2d5894c242584a280c503e54df2d79"
+
+[[files]]
+file = "build/build/mods/botarium-fabric-1.20.1-2.3.4.jar"
+hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
+
+[[files]]
+file = "build/build/mods/cadmus-fabric-1.20.1-1.0.8.jar"
+hash = "9364fe70f6e129a9424698fbe0718758757e97fa547dfa8abffc5836ccb40e44"
+
+[[files]]
+file = "build/build/mods/cardinal-components-api-5.2.3.jar"
+hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+
+[[files]]
+file = "build/build/mods/chipped-fabric-1.20.1-3.0.7.jar"
+hash = "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330"
+
+[[files]]
+file = "build/build/mods/cloth-config-11.1.136-fabric.jar"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
+
+[[files]]
+file = "build/build/mods/collective-1.20.1-8.3.jar"
+hash = "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301"
+
+[[files]]
+file = "build/build/mods/create-fabric-1.20.1-6.0.7.0+mc1.20.1-build.1693.jar"
+hash = "80aec1de3b1d6850690f979c62cf705a4978b126e0c286d87eb18cdf71173f57"
+
+[[files]]
+file = "build/build/mods/doubledoors-1.20.1-7.1.jar"
+hash = "19277090b1f09717dcf044b6595dfbb63320ecd50b13f0318f91d889a57eb7dd"
+
+[[files]]
+file = "build/build/mods/dungeons-and-taverns-3.0.3.f.jar"
+hash = "1da45baa734df73b1aa46f0b3f319b051c26507a911ec52bfcb1ccae6930e4f0"
+
+[[files]]
+file = "build/build/mods/dungeons-and-taverns-stronghold-rework-1.jar"
+hash = "d9aab87341c8579b9621dc41230385679e249cfa99d04ae0e0ec27ec15174467"
+
+[[files]]
+file = "build/build/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+hash = "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0"
+
+[[files]]
+file = "build/build/mods/fabric-api-0.92.6+1.20.1.jar"
+hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
+
+[[files]]
+file = "build/build/mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar"
+hash = "c1a8fbb4e4ef6a7211cdef70431795a4e6d453fe5713fb12c1e6279d64aaad84"
+
+[[files]]
+file = "build/build/mods/fancymenu_fabric_3.7.0_MC_1.20.1.jar"
+hash = "cbd9b635daac59475fd0b7ee302797804c7ee6f915a5c5ef07d1f5275e8acc7a"
+
+[[files]]
+file = "build/build/mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "build/build/mods/fzzy_config-0.7.2+1.20.1.jar"
+hash = "dabf4f55946d6789a599e10657cce709c1be96b312edc471989a3b3af6f25fe2"
+
+[[files]]
+file = "build/build/mods/getittogetherdrops-fabric-1.20-1.3.1.jar"
+hash = "76cdc906aa424a012595a5594861d6d561306cb168bf23090003b861eaabe003"
+
+[[files]]
+file = "build/build/mods/gottagofast-1.2.0+1.20.jar"
+hash = "f3f721cc83e147a0b35b72bd1065cffcd50a11c949c5c2a207ad92bba1bd32af"
+
+[[files]]
+file = "build/build/mods/hexParse-fabric-1.20.1-1.3.0.jar"
+hash = "bb28c21243c2af960fcc23e674f6c9b42927a4116fbfe965677ef51c03d07f30"
+
+[[files]]
+file = "build/build/mods/hex_machina-1.0.1.jar"
+hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
+
+[[files]]
+file = "build/build/mods/hexcassettes-1.1.4.jar"
+hash = "84718bb7c4d114c74f3f4aaf6de005e110b9f71c3538e6b63bffc1b7a6390b15"
+
+[[files]]
+file = "build/build/mods/hexcasting-fabric-1.20.1-0.11.2.jar"
+hash = "e19bcf40b333c1f27cf289dba84fa8fb7bc4fa6769d474f13a5b3a9d59dc57ad"
+
+[[files]]
+file = "build/build/mods/hexcellular-1.0.4.jar"
+hash = "71232a2e48d8f798a6326976727f565718e58cc3f212eb55e90be4201c6a2c42"
+
+[[files]]
+file = "build/build/mods/hexchanting-1.1.3.jar"
+hash = "c4033c839559d6c3301e9aac025e676be285f6257a6fc07a44cdcff192854e9a"
+
+[[files]]
+file = "build/build/mods/hexical-1.5.0.jar"
+hash = "c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2"
+
+[[files]]
+file = "build/build/mods/hexpose-1.0.0.jar"
+hash = "83a6e411b0a952234d72bfc2c348fc6ea2aec88b211532d088c72d38e93a05d0"
+
+[[files]]
+file = "build/build/mods/hexthingy-1.0.1.jar"
+hash = "291962079668166d8c7ccf59a91e8ab9f154c66aa2bcda2a20037225aea66678"
+
+[[files]]
+file = "build/build/mods/hexxy-dimensions-1.3.0.jar"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
+
+[[files]]
+file = "build/build/mods/hexxyattributes-1.0.jar"
+hash = "635a2a33e1259438f5cd663489fad67d2f6d61001441c8b484780ad8dc52ed91"
+
+[[files]]
+file = "build/build/mods/hierophantics-fabric-1.3.0.jar"
+hash = "d2c0076e6fca500bce9e7910d68165ea0903d9a430a0a928f16c7e763083b751"
+
+[[files]]
+file = "build/build/mods/inline-fabric-1.20.1-1.2.2.jar"
+hash = "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518"
+
+[[files]]
+file = "build/build/mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
+hash = "c4e179c4ff707963512454d0045ffc4953fd0862079c45d82f2ba30630c2718f"
+
+[[files]]
+file = "build/build/mods/jei-1.20.1-fabric-15.20.0.112.jar"
+hash = "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17"
+
+[[files]]
+file = "build/build/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+hash = "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6"
+
+[[files]]
+file = "build/build/mods/krypton-0.2.3.jar"
+hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
+
+[[files]]
+file = "build/build/mods/letmedespawn-1.20.x-fabric-1.5.0.jar"
+hash = "6fa924944e2adf5f6fabc7b29980c1ec6bbe02cb58646f32e544d066e91e8593"
+
+[[files]]
+file = "build/build/mods/lithium-fabric-mc1.20.1-0.11.3.jar"
+hash = "3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be"
+
+[[files]]
+file = "build/build/mods/lithostitched-fabric-1.20.1-1.4.11.jar"
+hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
+
+[[files]]
+file = "build/build/mods/lootr-fabric-1.20-0.7.35.85.jar"
+hash = "1c426f2df95c4cc06a4ce1af547e9a93baefb4ec487ab9672e4ca53565e6d85c"
+
+[[files]]
+file = "build/build/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+hash = "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7"
+
+[[files]]
+file = "build/build/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "build/build/mods/modernfix-fabric-5.24.4+mc1.20.1.jar"
+hash = "89c7ff6cd46449b080acca82e3df414de3a31b9f831b82c52b58d6ec9eacfc14"
+
+[[files]]
+file = "build/build/mods/modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+hash = "cef3bf3d5a41dfeee4001390b6f407b2c21c4adae049bb6f3f014e5e9046958a"
+
+[[files]]
+file = "build/build/mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
+hash = "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d"
+
+[[files]]
+file = "build/build/mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar"
+hash = "3d6184d1a008997810de492ff506cb4696a541fffcdc8028558936b68234f1df"
+
+[[files]]
+file = "build/build/mods/owo-lib-0.11.2+1.20.jar"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+
+[[files]]
+file = "build/build/mods/paucal-0.6.0+1.20.1-fabric.jar"
+hash = "5cce226aec79dd5b70006bdf3746e639f53d4f674b97fec3c0630515e070f3c7"
+
+[[files]]
+file = "build/build/mods/redirected-fabric-1.0.0-1.20.1.jar"
+hash = "ab05289da98c657e4091193bf51e6cafeed15942ceca09818f7a6b884d0c8a34"
+
+[[files]]
+file = "build/build/mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar"
+hash = "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a"
+
+[[files]]
+file = "build/build/mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
+hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+
+[[files]]
+file = "build/build/mods/servertick-mc1.20-1.8.jar"
+hash = "17fed4a25192e8b0c80fc6d9fbaaeb9648f4308ed60c313773be9025e0a8c2ed"
+
+[[files]]
+file = "build/build/mods/simplehats-fabric-1.20.1-0.3.2.jar"
+hash = "ea28720c48cc15f526339a9961f79858584f1d959c5e4d41938870b3ce1fa5fc"
+
+[[files]]
+file = "build/build/mods/spark-1.10.53-fabric.jar"
+hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
+
+[[files]]
+file = "build/build/mods/styled-chat-2.2.4+1.20.1.jar"
+hash = "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418"
+
+[[files]]
+file = "build/build/mods/surveyor-0.6.26+1.20.jar"
+hash = "756338c927bab2af07da18a6b80e662c185f4377cdba284aec4dcd7ae9a97e20"
+
+[[files]]
+file = "build/build/mods/tectonic-3.0.12-fabric-1.20.1.jar"
+hash = "1691165c23ea6c8abe9e30f724adbba6ec9ebd5215c807e2c3b75cb0a5891c85"
+
+[[files]]
+file = "build/build/mods/trashslot-fabric-1.20-15.1.1.jar"
+hash = "0904c89525bc3de1090de2bbf3d423cfd4199ea568344fbf31d019ee40d12e71"
+
+[[files]]
+file = "build/build/mods/trinketlantern-1.0.1.jar"
+hash = "e3d1033aab63d12d6364310119453804e2e8c49af520acf6a4fa2c13e91590a8"
+
+[[files]]
+file = "build/build/mods/trinkets-3.7.2.jar"
+hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+
+[[files]]
+file = "build/build/mods/txnilib-fabric-1.0.24-1.20.1.jar"
+hash = "b1d2848cc92f94bd3c0786e68ce0e7d750c53d3b0a82bc61603d0db2753ff355"
+
+[[files]]
+file = "build/build/mods/voicechat-fabric-1.20.1-2.5.35.jar"
+hash = "d77621fb932776450a63921e75ad3cba327376521d5a99ab026d6d30d9645893"
+
+[[files]]
+file = "build/build/mods/yet-another-furniture-1.0pre3+fabric-1.20.1.jar"
+hash = "39277ae7f0ca85e865bd82bdd58fe603bcfec055b32a4b53d544b727afeb6b72"
+
+[[files]]
+file = "build/build/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+hash = "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac"
+
+[[files]]
+file = "build/build/mods/yosbr-0.1.2.jar"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[[files]]
+file = "build/build/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "build/build/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "build/build/packwiz.json"
+hash = "f1ba90ead1f6eb8180f4584f6156fe0b1ff6efbc4db108caa340e9a40889b0de"
+
+[[files]]
+file = "build/build/resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
+hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
+
+[[files]]
+file = "build/build/resourcepacks/modpack/pack.mcmeta"
+hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
+
+[[files]]
+file = "build/config/fancymenu/assets/empty.png"
+hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
+
+[[files]]
+file = "build/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "build/config/fancymenu/customizablemenus.txt"
+hash = "67c3830dc15adea309b6370739bd7f4c2d8b7375e094a7cb5fb60a652b0ff09d"
+
+[[files]]
+file = "build/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "3c1f861c7595b5f96ef861bc495342e0ebcf6c93bab04d8d875bf5d5fcd9bdb2"
+
+[[files]]
+file = "build/config/fancymenu/customization/pause_screen_layout.txt"
+hash = "eb34191004540e6c70afb10375792aff93577530f321347bb2e2808bf6e581aa"
+
+[[files]]
+file = "build/config/fancymenu/customization/title_screen_layout.txt"
+hash = "71de0836f84c05c1422d173d45a3bbebb477a6221eb4cd31b5bc92a93846715c"
+
+[[files]]
+file = "build/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "build/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "build/config/fancymenu/options.txt"
+hash = "3a0cd8e2ca66e6fe06d89d57fc71fd75f4b5650e9844aed7b3e2633fd2fa9b18"
+
+[[files]]
+file = "build/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "build/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "build/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "build/config/item_obliterator.json5"
+hash = "09be0b3f4855287c98527789a4c4d492b4e0cbe5cafa5d4fbdf0e2e24c604927"
+
+[[files]]
+file = "build/config/modpack-update-checker.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "build/config/modpack-update-checker/config.json"
+hash = "857b1db2a3707f987bed20b6e96815cad8b64c04d79cb3e207b899aa0a33c2b8"
+
+[[files]]
+file = "build/config/yosbr/config/ait-client.json5"
+hash = "ef4cfc0b3c5cb8779e7a734b5ad68a4491140217806c95bd0ae495cb7305dffc"
+
+[[files]]
+file = "build/config/yosbr/config/ait-server.json5"
+hash = "183a18982d711eb14105c3b876cbb54c864776861b67d768c6266d2aec9694b1"
+
+[[files]]
+file = "build/config/yosbr/config/modmenu.json"
+hash = "64e041ef5bcf3d47ce6721a137b75b0004361b0a14f6d7ed318d7e4691a420a3"
+
+[[files]]
+file = "build/config/yosbr/figura.json"
+hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
+
+[[files]]
+file = "build/config/yosbr/options.txt"
+hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
+
+[[files]]
+file = "build/config/yosbr/servers.dat"
+hash = "39527772044133e94d4af337e6892aeeb2bd45f6903084c321c5e0b90170120d"
+
+[[files]]
+file = "build/logo.png"
+hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
+
+[[files]]
+file = "build/mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
+hash = "0382a9e1334cb736c4f0d86cf0d002106d6a98453a709950ebbf0e939831ea72"
+
+[[files]]
+file = "build/mods/Botania-1.20.1-450-FABRIC.jar"
+hash = "c49ea14e55c46d4097c9f9a05a43ede16c082eda6f408e69bd1f2c9e5bb0d44d"
+
+[[files]]
+file = "build/mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
+hash = "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7"
+
+[[files]]
+file = "build/mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
+hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
+
+[[files]]
+file = "build/mods/Debugify-1.20.1+2.0.jar"
+hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
+
+[[files]]
+file = "build/mods/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar"
+hash = "0656d7410684947dcd3c53c4c6e2808bbde1fd91481fe3425a3038602a39b989"
+
+[[files]]
+file = "build/mods/FarmersDelight-1.20.1-2.4.0+refabricated.jar"
+hash = "bbfd5fde5946a6a48fe82e92c1b50a90a345ef254df29ad4265b09e1e2c15450"
+
+[[files]]
+file = "build/mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar"
+hash = "5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56"
+
+[[files]]
+file = "build/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+hash = "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc"
+
+[[files]]
+file = "build/mods/HexOverpowered-fabric-1.20.1-0.8.2.jar"
+hash = "63dd2bc5a24fe27d24c723f34fd6a1acce5f639c4a2b45433e28f7942656e92d"
+
+[[files]]
+file = "build/mods/Icterine-fabric-1.20.0-1-1.3.0.jar"
+hash = "2069791775c6e65b35f2d811b19f8c15dce2851069913f82512502c3d24aaafe"
+
+[[files]]
+file = "build/mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
+hash = "64bf81726963996f1c3e1404e9058c352daf6bcdf96f931f75da66a2869cb9c2"
+
+[[files]]
+file = "build/mods/Jade-1.20-Fabric-11.13.1.jar"
+hash = "02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c"
+
+[[files]]
+file = "build/mods/Ksyxis-1.2.0.jar"
+hash = "f42e067595bd9b96cc9714942c7b26ccba1b723fd443150ec87ba8349a05ad50"
+
+[[files]]
+file = "build/mods/LuckPerms-Fabric-5.4.102.jar"
+hash = "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582"
+
+[[files]]
+file = "build/mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
+hash = "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60"
+
+[[files]]
+file = "build/mods/Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
+hash = "d682d4f8e8c9ed3f98170ab857610baaa8ad45c5a0113fd35fc00a91e29f5bc7"
+
+[[files]]
+file = "build/mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
+hash = "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+
+[[files]]
+file = "build/mods/Patchouli-1.20.1-84.1-FABRIC.jar"
+hash = "4f53d46291e1277303e91ff344d97b01847711d8c84f1a6d79f037d03a3b0578"
+
+[[files]]
+file = "build/mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+
+[[files]]
+file = "build/mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
+hash = "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5"
+
+[[files]]
+file = "build/mods/Slate_Work-1.0.2.jar"
+hash = "28293b4cd576bafacb4231a773cb9d430eb718b5deccf7313ea7e28a70e10417"
+
+[[files]]
+file = "build/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "build/mods/aa4-atlas-1.1.2+1.20.jar"
+hash = "b1ad37a2814ed85b7b360f69a67249189ce192ac7189520506242150257eb67c"
+
+[[files]]
+file = "build/mods/ad_astra-fabric-1.20.1-1.15.20.jar"
+hash = "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246"
+
+[[files]]
+file = "build/mods/ait-1.2.11.2825-1.20.1-release.jar"
+hash = "3e084f6c6cd4c975e9c564e9231b8e82cdfd70b7ff07fec9e65006b7d7786a59"
+
+[[files]]
+file = "build/mods/ait-extras-1.0.1-1.20.1-release.jar"
+hash = "5dab71a33bc0945aa623db94305c7e941eb23756b448dae07436fb899d63e4b9"
+
+[[files]]
+file = "build/mods/almanac-1.20.x-fabric-1.0.2.jar"
+hash = "2c0ea8c3f9f7ca0b4a1d93328ecb26b1bfa00cf33d09d0089d197b707bf97a73"
+
+[[files]]
+file = "build/mods/alternate-current-mc1.20-1.9.0.jar"
+hash = "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515"
+
+[[files]]
+file = "build/mods/amble-1.1.8.93-1.20.1-beta.jar"
+hash = "89e3c06721f082ac1e7385f2ff53316d9ac8f630692ac9c19ed7c44422d79afd"
+
+[[files]]
+file = "build/mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
+hash = "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5"
+
+[[files]]
+file = "build/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "build/mods/argonauts-fabric-1.20.1-1.0.10.jar"
+hash = "81f4cca84aee79231bfcf3fd8abc083cd3540b63bdac2e32f7a7ac2929384799"
+
+[[files]]
+file = "build/mods/athena-fabric-1.20.1-3.1.2.jar"
+hash = "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd"
+
+[[files]]
+file = "build/mods/balm-fabric-1.20.1-7.3.34.jar"
+hash = "56450c711253f4789c2072b3b0d078ee6389bdbff4e2bf94fd9604df01719871"
+
+[[files]]
+file = "build/mods/bewitchment-1.20-10.jar"
+hash = "2cfabf215187a720c87cf04ea55791eb5a2d5894c242584a280c503e54df2d79"
+
+[[files]]
+file = "build/mods/botarium-fabric-1.20.1-2.3.4.jar"
+hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
+
+[[files]]
+file = "build/mods/cadmus-fabric-1.20.1-1.0.8.jar"
+hash = "9364fe70f6e129a9424698fbe0718758757e97fa547dfa8abffc5836ccb40e44"
+
+[[files]]
+file = "build/mods/cardinal-components-api-5.2.3.jar"
+hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+
+[[files]]
+file = "build/mods/chipped-fabric-1.20.1-3.0.7.jar"
+hash = "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330"
+
+[[files]]
+file = "build/mods/cloth-config-11.1.136-fabric.jar"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
+
+[[files]]
+file = "build/mods/collective-1.20.1-8.3.jar"
+hash = "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301"
+
+[[files]]
+file = "build/mods/create-fabric-1.20.1-6.0.7.0+mc1.20.1-build.1693.jar"
+hash = "80aec1de3b1d6850690f979c62cf705a4978b126e0c286d87eb18cdf71173f57"
+
+[[files]]
+file = "build/mods/doubledoors-1.20.1-7.1.jar"
+hash = "19277090b1f09717dcf044b6595dfbb63320ecd50b13f0318f91d889a57eb7dd"
+
+[[files]]
+file = "build/mods/dungeons-and-taverns-3.0.3.f.jar"
+hash = "1da45baa734df73b1aa46f0b3f319b051c26507a911ec52bfcb1ccae6930e4f0"
+
+[[files]]
+file = "build/mods/dungeons-and-taverns-stronghold-rework-1.jar"
+hash = "d9aab87341c8579b9621dc41230385679e249cfa99d04ae0e0ec27ec15174467"
+
+[[files]]
+file = "build/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+hash = "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0"
+
+[[files]]
+file = "build/mods/fabric-api-0.92.6+1.20.1.jar"
+hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
+
+[[files]]
+file = "build/mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar"
+hash = "c1a8fbb4e4ef6a7211cdef70431795a4e6d453fe5713fb12c1e6279d64aaad84"
+
+[[files]]
+file = "build/mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "build/mods/fzzy_config-0.7.2+1.20.1.jar"
+hash = "dabf4f55946d6789a599e10657cce709c1be96b312edc471989a3b3af6f25fe2"
+
+[[files]]
+file = "build/mods/getittogetherdrops-fabric-1.20-1.3.1.jar"
+hash = "76cdc906aa424a012595a5594861d6d561306cb168bf23090003b861eaabe003"
+
+[[files]]
+file = "build/mods/gottagofast-1.2.0+1.20.jar"
+hash = "f3f721cc83e147a0b35b72bd1065cffcd50a11c949c5c2a207ad92bba1bd32af"
+
+[[files]]
+file = "build/mods/hexParse-fabric-1.20.1-1.3.0.jar"
+hash = "bb28c21243c2af960fcc23e674f6c9b42927a4116fbfe965677ef51c03d07f30"
+
+[[files]]
+file = "build/mods/hex_machina-1.0.1.jar"
+hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
+
+[[files]]
+file = "build/mods/hexcassettes-1.1.4.jar"
+hash = "84718bb7c4d114c74f3f4aaf6de005e110b9f71c3538e6b63bffc1b7a6390b15"
+
+[[files]]
+file = "build/mods/hexcasting-fabric-1.20.1-0.11.2.jar"
+hash = "e19bcf40b333c1f27cf289dba84fa8fb7bc4fa6769d474f13a5b3a9d59dc57ad"
+
+[[files]]
+file = "build/mods/hexcellular-1.0.4.jar"
+hash = "71232a2e48d8f798a6326976727f565718e58cc3f212eb55e90be4201c6a2c42"
+
+[[files]]
+file = "build/mods/hexchanting-1.1.3.jar"
+hash = "c4033c839559d6c3301e9aac025e676be285f6257a6fc07a44cdcff192854e9a"
+
+[[files]]
+file = "build/mods/hexical-1.5.0.jar"
+hash = "c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2"
+
+[[files]]
+file = "build/mods/hexpose-1.0.0.jar"
+hash = "83a6e411b0a952234d72bfc2c348fc6ea2aec88b211532d088c72d38e93a05d0"
+
+[[files]]
+file = "build/mods/hexthingy-1.0.1.jar"
+hash = "291962079668166d8c7ccf59a91e8ab9f154c66aa2bcda2a20037225aea66678"
+
+[[files]]
+file = "build/mods/hexxy-dimensions-1.3.0.jar"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
+
+[[files]]
+file = "build/mods/hexxyattributes-1.0.jar"
+hash = "635a2a33e1259438f5cd663489fad67d2f6d61001441c8b484780ad8dc52ed91"
+
+[[files]]
+file = "build/mods/hierophantics-fabric-1.3.0.jar"
+hash = "d2c0076e6fca500bce9e7910d68165ea0903d9a430a0a928f16c7e763083b751"
+
+[[files]]
+file = "build/mods/inline-fabric-1.20.1-1.2.2.jar"
+hash = "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518"
+
+[[files]]
+file = "build/mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
+hash = "c4e179c4ff707963512454d0045ffc4953fd0862079c45d82f2ba30630c2718f"
+
+[[files]]
+file = "build/mods/jei-1.20.1-fabric-15.20.0.112.jar"
+hash = "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17"
+
+[[files]]
+file = "build/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+hash = "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6"
+
+[[files]]
+file = "build/mods/krypton-0.2.3.jar"
+hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
+
+[[files]]
+file = "build/mods/letmedespawn-1.20.x-fabric-1.5.0.jar"
+hash = "6fa924944e2adf5f6fabc7b29980c1ec6bbe02cb58646f32e544d066e91e8593"
+
+[[files]]
+file = "build/mods/lithium-fabric-mc1.20.1-0.11.3.jar"
+hash = "3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be"
+
+[[files]]
+file = "build/mods/lithostitched-fabric-1.20.1-1.4.11.jar"
+hash = "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4"
+
+[[files]]
+file = "build/mods/lootr-fabric-1.20-0.7.35.85.jar"
+hash = "1c426f2df95c4cc06a4ce1af547e9a93baefb4ec487ab9672e4ca53565e6d85c"
+
+[[files]]
+file = "build/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "build/mods/modernfix-fabric-5.24.4+mc1.20.1.jar"
+hash = "89c7ff6cd46449b080acca82e3df414de3a31b9f831b82c52b58d6ec9eacfc14"
+
+[[files]]
+file = "build/mods/modpack-update-checker-1.20.1-fabric-0.15.6.jar"
+hash = "cef3bf3d5a41dfeee4001390b6f407b2c21c4adae049bb6f3f014e5e9046958a"
+
+[[files]]
+file = "build/mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
+hash = "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d"
+
+[[files]]
+file = "build/mods/notenoughcrashes-4.4.9+1.20.1-fabric.jar"
+hash = "3d6184d1a008997810de492ff506cb4696a541fffcdc8028558936b68234f1df"
+
+[[files]]
+file = "build/mods/owo-lib-0.11.2+1.20.jar"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+
+[[files]]
+file = "build/mods/paucal-0.6.0+1.20.1-fabric.jar"
+hash = "5cce226aec79dd5b70006bdf3746e639f53d4f674b97fec3c0630515e070f3c7"
+
+[[files]]
+file = "build/mods/redirected-fabric-1.0.0-1.20.1.jar"
+hash = "ab05289da98c657e4091193bf51e6cafeed15942ceca09818f7a6b884d0c8a34"
+
+[[files]]
+file = "build/mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar"
+hash = "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a"
+
+[[files]]
+file = "build/mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
+hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+
+[[files]]
+file = "build/mods/servertick-mc1.20-1.8.jar"
+hash = "17fed4a25192e8b0c80fc6d9fbaaeb9648f4308ed60c313773be9025e0a8c2ed"
+
+[[files]]
+file = "build/mods/simplehats-fabric-1.20.1-0.3.2.jar"
+hash = "ea28720c48cc15f526339a9961f79858584f1d959c5e4d41938870b3ce1fa5fc"
+
+[[files]]
+file = "build/mods/spark-1.10.53-fabric.jar"
+hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
+
+[[files]]
+file = "build/mods/styled-chat-2.2.4+1.20.1.jar"
+hash = "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418"
+
+[[files]]
+file = "build/mods/surveyor-0.6.26+1.20.jar"
+hash = "756338c927bab2af07da18a6b80e662c185f4377cdba284aec4dcd7ae9a97e20"
+
+[[files]]
+file = "build/mods/tectonic-3.0.12-fabric-1.20.1.jar"
+hash = "1691165c23ea6c8abe9e30f724adbba6ec9ebd5215c807e2c3b75cb0a5891c85"
+
+[[files]]
+file = "build/mods/trashslot-fabric-1.20-15.1.1.jar"
+hash = "0904c89525bc3de1090de2bbf3d423cfd4199ea568344fbf31d019ee40d12e71"
+
+[[files]]
+file = "build/mods/trinketlantern-1.0.1.jar"
+hash = "e3d1033aab63d12d6364310119453804e2e8c49af520acf6a4fa2c13e91590a8"
+
+[[files]]
+file = "build/mods/trinkets-3.7.2.jar"
+hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+
+[[files]]
+file = "build/mods/txnilib-fabric-1.0.24-1.20.1.jar"
+hash = "b1d2848cc92f94bd3c0786e68ce0e7d750c53d3b0a82bc61603d0db2753ff355"
+
+[[files]]
+file = "build/mods/voicechat-fabric-1.20.1-2.5.35.jar"
+hash = "d77621fb932776450a63921e75ad3cba327376521d5a99ab026d6d30d9645893"
+
+[[files]]
+file = "build/mods/yet-another-furniture-1.0pre3+fabric-1.20.1.jar"
+hash = "39277ae7f0ca85e865bd82bdd58fe603bcfec055b32a4b53d544b727afeb6b72"
+
+[[files]]
+file = "build/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+hash = "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac"
+
+[[files]]
+file = "build/mods/yosbr-0.1.2.jar"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[[files]]
+file = "build/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "build/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "build/packwiz.json"
+hash = "f1ba90ead1f6eb8180f4584f6156fe0b1ff6efbc4db108caa340e9a40889b0de"
+
+[[files]]
+file = "build/resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
+hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
+
+[[files]]
+file = "build/resourcepacks/modpack/pack.mcmeta"
+hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
+
+[[files]]
 file = "config/fancymenu/assets/empty.png"
 hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
 
@@ -50,7 +1570,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a0109a0224447166ba7723dc2d79ce8e32639c2589518d7b58f6886ffaf0a442"
+hash = "09be0b3f4855287c98527789a4c4d492b4e0cbe5cafa5d4fbdf0e2e24c604927"
 
 [[files]]
 file = "config/modpack-update-checker.txt"
@@ -91,10 +1611,6 @@ hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
 [[files]]
 file = "mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
 hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
-
-[[files]]
-file = "mods/Steam_Rails-fabric-1.20.1-1.6.12-alpha-1.20_create-v6+fabric-mc1.20.1-build.1575.jar"
-hash = "b9280c9f2ecf176ebcf762cd87f27baf8436887336b221d58e9457bbd4f23ea2"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
@@ -148,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -277,7 +1793,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8eb10c86083225d12ec67f6bd65e19e8f917a7f08495dfcd12a210768cf06c4e"
+hash = "c7b3da3f45fc23a62f4d0e5503878894034dcd36cc180cf4528e3ee2ee793883"
 metafile = true
 
 [[files]]
@@ -412,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "6fd34bf65c7e23b232315da1a5c9139ffa1d8d334495872fd229e39e00b94d61"
+hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
@@ -538,6 +2054,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
