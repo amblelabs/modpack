@@ -89,10 +89,6 @@ file = "logo.png"
 hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
 
 [[files]]
-file = "mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
-hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
-
-[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
 metafile = true
@@ -213,8 +209,19 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-1.20.1-6.0.7.0+mc1.20.1-build.1693.jar"
-hash = "80aec1de3b1d6850690f979c62cf705a4978b126e0c286d87eb18cdf71173f57"
+file = "mods/copycats.pw.toml"
+hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
@@ -564,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/nrb.pw.toml"
 hash = "01fbfe47f46c3d24169084576e6bd4f622a45660a6dd6259f82d4ad61073d762"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
 metafile = true
 
 [[files]]
