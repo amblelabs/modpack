@@ -1,0 +1,13 @@
+name = "Better Hex Particle"
+filename = "better-hex-particle-v0.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GCozs20/versions/18Rif9vC/better-hex-particle-v0.1.0.zip"
+hash-format = "sha512"
+hash = "9ee074afd95f372ea2f1f3965b25b2f8c90eacc4233d7226ad008150979c1dbabc3a21489d71689570da3bc7c0a5d935b430aac4159835fac4885e84bd64c08c"
+
+[update]
+[update.modrinth]
+mod-id = "3GCozs20"
+version = "18Rif9vC"

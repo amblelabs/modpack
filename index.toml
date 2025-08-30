@@ -49,6 +49,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "a0109a0224447166ba7723dc2d79ce8e32639c2589518d7b58f6886ffaf0a442"
+
+[[files]]
 file = "config/modpack-update-checker.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -69,6 +73,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "64e041ef5bcf3d47ce6721a137b75b0004361b0a14f6d7ed318d7e4691a420a3"
 
 [[files]]
+file = "config/yosbr/figura.json"
+hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
 
@@ -83,6 +91,10 @@ hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
 [[files]]
 file = "mods/CreateNumismatics-1.0.15+fabric-mc1.20.1-local.jar"
 hash = "a4b950967a8880c38bdef9d142c372df2c88d3b01c3eea596ae4491aacc08f14"
+
+[[files]]
+file = "mods/Steam_Rails-fabric-1.20.1-1.6.12-alpha-1.20_create-v6+fabric-mc1.20.1-build.1575.jar"
+hash = "b9280c9f2ecf176ebcf762cd87f27baf8436887336b221d58e9457bbd4f23ea2"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
@@ -142,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a10f7f1072508bbe2d8d9cd9ce980cabc46805568ae9f055a5f47622aead26a7"
 metafile = true
 
 [[files]]
@@ -304,6 +321,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "9f968a9fc834ea9c200df1661504f2177695261057fd87e35cbc8a24f18f038b"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
@@ -314,8 +336,53 @@ hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
+metafile = true
+
+[[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "551b3d384d4bbb2915a75b1e9e94ced6121643a1cec9186887859a6eee1e251a"
+metafile = true
+
+[[files]]
+file = "mods/hexdim.pw.toml"
+hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
 file = "mods/hexoverpowered.pw.toml"
 hash = "f08e01877b3eb40dc3e5825b636515020717a156c6c982db420b1563c5c9f3f8"
+metafile = true
+
+[[files]]
+file = "mods/hexparse.pw.toml"
+hash = "e4d855e1c6941c683964e57b5889149d53c0d0d8e14af4f394493e490c0555ab"
+metafile = true
+
+[[files]]
+file = "mods/hexpose.pw.toml"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+metafile = true
+
+[[files]]
+file = "mods/hexthingy.pw.toml"
+hash = "a12033b30bacf51de49b79599cf4d02591bbdac978f14a6a8b4b245e718f52da"
+metafile = true
+
+[[files]]
+file = "mods/hexxyattributes.pw.toml"
+hash = "796a322e8832c389de5c5b0f810d27022aec62404c265506f9c1bf04d990251e"
 metafile = true
 
 [[files]]
@@ -349,8 +416,18 @@ hash = "6fd34bf65c7e23b232315da1a5c9139ffa1d8d334495872fd229e39e00b94d61"
 metafile = true
 
 [[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "2754c3da3ef6a69e1237c6edeb636de8571814f264e97cc74f656e356d5720cf"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "5dbbebb1be98bfa055096c70fcbf668553b736ad2f9d20a5ff2d2cafc40968c1"
 metafile = true
 
 [[files]]
@@ -504,6 +581,11 @@ hash = "17009c6e2231242cc1673132342d3f4be28a7b1aaa6a2f35afa05807d4d70f6a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "8d6be021a4ecb4e7f97cbfd8deaad7524ff48a5af634247922ad63bd23555b14"
 metafile = true
@@ -579,6 +661,11 @@ hash = "177b37256afd171f2e5447434057f604acd09b5328e85e46ed4c5399f90269f5"
 metafile = true
 
 [[files]]
+file = "mods/slate-works.pw.toml"
+hash = "878dbddce7f9172ece9757bd74f769f35ee39ac44f9f857b21dc813394248c7c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
@@ -606,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "12ffd7d9d5511848c57fdb470668189171aba315fe15ff44522d10a57d7acd1d"
 metafile = true
 
 [[files]]
@@ -638,6 +730,11 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-hex-particle.pw.toml"
+hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
+metafile = true
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
 metafile = true
@@ -649,6 +746,11 @@ hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
 [[files]]
 file = "resourcepacks/modpack/pack.mcmeta"
 hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
+
+[[files]]
+file = "resourcepacks/rhdb.pw.toml"
+hash = "6fc23902cda83151410b9fc966aa52e3673c8009faf5c6ba1d857055cd05f597"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -1,0 +1,13 @@
+name = "Gotta Go Fast [Fabric]"
+filename = "gottagofast-1.2.0+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ioquzjs2/versions/W8eGijtX/gottagofast-1.2.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "f633479953af35536933bc7b3d2ba5bf73701dfda3d297f0327ecfbdad5a4d3c40d917d3fc4e6694b2f328eb21f84bd77ff12239e869a336da832f56e3799685"
+
+[update]
+[update.modrinth]
+mod-id = "Ioquzjs2"
+version = "W8eGijtX"

@@ -1,0 +1,13 @@
+name = "ReHexDimBlock"
+filename = "ReHexDimBlock.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QqEc1Ukr/versions/K5vTzcFk/ReHexDimBlock.zip"
+hash-format = "sha512"
+hash = "34e8c43c097f3de989e677269daf4db49deddbcd0aeeef1dfd034a4d74377b7c51d8b69dee6d96aa55eecb033b462daa49561eb262fc57c71c505b1622cf1649"
+
+[update]
+[update.modrinth]
+mod-id = "QqEc1Ukr"
+version = "K5vTzcFk"

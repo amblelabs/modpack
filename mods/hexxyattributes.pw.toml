@@ -1,0 +1,13 @@
+name = "Hexxy Attributes"
+filename = "hexxyattributes-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hXknBxN6/versions/LZPMnifU/hexxyattributes-1.0.jar"
+hash-format = "sha512"
+hash = "20dad9e18951873903a99e8c7a05c856419be3237dfdf6ad7964d3a5fa5b53ced0d8fe880f7503bcb78fbb01e325456853afc5b917841b6e104674b6df69fd1e"
+
+[update]
+[update.modrinth]
+mod-id = "hXknBxN6"
+version = "LZPMnifU"
