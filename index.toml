@@ -144,6 +144,11 @@ hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "354a23e95a756fa2e8110b4d93a58e97c83409c33cf683c27c495f51848f2f41"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
 
 [[files]]
@@ -666,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "50034f442817b191a1b8d91577475ceadb148b67c0d262f7bd88168904aef666"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "c192b9b04d3826dfd980874d5e589dd0051fcdf5baf679bbab6f32a0c376ce40"
 metafile = true
 
 [[files]]
