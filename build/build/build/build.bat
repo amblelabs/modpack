@@ -1,1 +1,0 @@
-java -jar .\packwiz-installer-bootstrap.jar -g -s server ../pack.toml
