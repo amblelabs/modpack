@@ -739,6 +739,11 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "12ffd7d9d5511848c57fdb470668189171aba315fe15ff44522d10a57d7acd1d"
 metafile = true
@@ -773,10 +778,6 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ait-server-pack_fixeded.zip"
-hash = "1ccfc47f079ea21a8d809fcbfdf71115c882d2c0bc14ed24f282979f8ca4ec2e"
-
-[[files]]
 file = "resourcepacks/better-hex-particle.pw.toml"
 hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
 metafile = true
@@ -797,6 +798,11 @@ hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
 [[files]]
 file = "resourcepacks/rhdb.pw.toml"
 hash = "6fc23902cda83151410b9fc966aa52e3673c8009faf5c6ba1d857055cd05f597"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true
 
 [[files]]
