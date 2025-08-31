@@ -778,6 +778,10 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ait-server-pack_fixeded.zip"
+hash = "1ccfc47f079ea21a8d809fcbfdf71115c882d2c0bc14ed24f282979f8ca4ec2e"
+
+[[files]]
 file = "resourcepacks/better-hex-particle.pw.toml"
 hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
 metafile = true
@@ -792,8 +796,108 @@ file = "resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
 hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
 
 [[files]]
+file = "resourcepacks/modpack/assets/auroranyxs/lang/en_us.json"
+hash = "c518bc56ecab095b8c0c7d0ca743098cff4f377f106d7af8aef442162657ce7a"
+
+[[files]]
+file = "resourcepacks/modpack/assets/auroranyxs/textures/60th_hudolin.png"
+hash = "88867e8987aeaf81235a4eb35b6c658e65aa105cf92e1fc87e05cb8bffaba0aa"
+
+[[files]]
+file = "resourcepacks/modpack/assets/auroranyxs/textures/60th_hudolin_emission.png"
+hash = "0bd59c326a5adf644c305472316a5e4e7e7e52214a787a6d65d5c40453be13b1"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/lang/en_us.json"
+hash = "a396ee765f77c6d61e7ae8dd9e3318d10151184cb848a66ced0e137c3c6ab4a1"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/consoles/copper_cherry.png"
+hash = "abe82025a8b7e8fe0f2c818a68f309f3d49072fd209ca8e75b88ec75f4b665e4"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/consoles/copper_cherry_emission.png"
+hash = "d9860a9fb7e8a3d74899671a7393bf08a3cafa5aedfc425eac5649b1c607752d"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/exteriors/classic/classic_hudolin.png"
+hash = "18abe3e03ec68b194d6f285f4f5f67873ea6da7cdb49d82fb596d66c33d09153"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/exteriors/classic/classic_hudolin_emission.png"
+hash = "5e42aea03aa427a51607c915293ec115b54cc111ff8cfa2ec9202c3a0fe8b642"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/vortex/hudolin.png"
+hash = "a429ab5ad00e066f5111425bc8eedb74c68bb0b7942247f7a89683c358128559"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/vortex/hudolin_second.png"
+hash = "59c739173f723f7d909e8ced12141a5b6c2c02f1ecd65a7f2e9d0b3ae4a67cf3"
+
+[[files]]
+file = "resourcepacks/modpack/assets/frooploof/textures/vortex/hudolin_third.png"
+hash = "6f2b2eef839c8bd1cc201f75a45f30848ba79da806e624fe42d0774d0e8c12b8"
+
+[[files]]
+file = "resourcepacks/modpack/assets/jellyaurora/lang/en_us.json"
+hash = "8a6224d1f3f928f54547ae191aa7efa6349bdb3e774777ab5b04cca5f25dfd1b"
+
+[[files]]
+file = "resourcepacks/modpack/assets/jellyaurora/textures/australis.png"
+hash = "c95cc4d5f1b556b01eba7e75f51dc44d5b6e2351eca320d92d360779236c8a53"
+
+[[files]]
+file = "resourcepacks/modpack/assets/jellyaurora/textures/australis_emission.png"
+hash = "47bf4389c19bb3bbd9766a6b5f46e74d020eedcb3786bf211b0d1f90f96ba3bb"
+
+[[files]]
+file = "resourcepacks/modpack/assets/k6/lang/en_us.json"
+hash = "075724c1e7b6be8c334387f5c96409a6c5ef2afead47f6aa937e20f95564a351"
+
+[[files]]
+file = "resourcepacks/modpack/assets/k6/textures/exterior/booth_future.png"
+hash = "0ea62991ab39a2fb54f4b3409b6073e1f8f817f581ac2839c4ffddb07a447f72"
+
+[[files]]
+file = "resourcepacks/modpack/assets/k6/textures/exterior/booth_future_emission.png"
+hash = "38a51368efb16ec387bee2389ff61ee304cdf2c5bbbb08d386025babb99766df"
+
+[[files]]
+file = "resourcepacks/modpack/assets/k6/textures/exterior/booth_k6.png"
+hash = "ac2e33a22edc1f398406f65afe84548ba9961766d75d3014102d8ba55352896a"
+
+[[files]]
+file = "resourcepacks/modpack/assets/k6/textures/exterior/booth_k6_emission.png"
+hash = "885df49731b060380d27033c1fd288e215ff30b6e95e20b0d80080eb43a8e537"
+
+[[files]]
+file = "resourcepacks/modpack/assets/maggie/lang/en_us.json"
+hash = "2012bd8a86f51dda32e6e157360d95b5c469f22005fe458099dcbf9f40a7ab29"
+
+[[files]]
+file = "resourcepacks/modpack/assets/maggie/textures/blockentities/exteriors/classic/classic_primetoyota.png"
+hash = "15054c40413a64865f61d927591dcabbd6d9d93ae37d8837b11ca8ecc9595414"
+
+[[files]]
+file = "resourcepacks/modpack/assets/maggie/textures/blockentities/exteriors/classic/classic_primetoyota_emission.png"
+hash = "8408efbf65e8e96affc9e68233f6407fd5cd04a5bab4b7efbd279be9fe367e14"
+
+[[files]]
+file = "resourcepacks/modpack/assets/maggie/textures/blockentities/exteriors/police_box/police_box_toyotaprime.png"
+hash = "f34a2e9b82cae9cadf32b8974c32bac595a3fa8fe25a8398e71041ffa3295b33"
+
+[[files]]
+file = "resourcepacks/modpack/assets/maggie/textures/blockentities/exteriors/police_box/police_box_toyotaprime_emission.png"
+hash = "8692c9c14e9ab72fe83b7aa1ff2f674598d1f0d9140e8d5622acffcc92c976b1"
+
+[[files]]
 file = "resourcepacks/modpack/pack.mcmeta"
-hash = "b27443d0560a4d86bc6ba38887e1610c0516cdf4dfe147db6e8e01d039fcf10c"
+hash = "670a9a1db59ce7f0e33c75c3c0927654dc90d8d4b021100948abb3c012d2c205"
+
+[[files]]
+file = "resourcepacks/modpack/pack.png"
+hash = "0b52fd00739d52e41203fcd9576f6e9948f430b429ebfab801c53c2049f07c93"
 
 [[files]]
 file = "resourcepacks/rhdb.pw.toml"
