@@ -78,7 +78,7 @@ hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "03a93bcc6ca52b28e12100bb6d5cb820c60e146e7c1cf187bbfc36806f1c4b2e"
+hash = "60874fbb432850d39b3feb7457adbdf2d723f8cc9a5d16170e78ad75611f692e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -86,7 +86,7 @@ hash = "39527772044133e94d4af337e6892aeeb2bd45f6903084c321c5e0b90170120d"
 
 [[files]]
 file = "logo.png"
-hash = "4671fae765df69b1c5b047ad32727a0ec97da5ec95e057c4585155a223f98647"
+hash = "c3df62c0659a355ddcf4324e2f8cad89ee9e7d1980b8fc83a4ebf363d3eec3c4"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "354a23e95a756fa2e8110b4d93a58e97c83409c33cf683c27c495f51848f2f41"
+hash = "010e9a3192f72083c181819dc942307735a12bcfb4690c2ec8a2be537bf42538"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "76aba8d8cc62f325d52613c1b66d17dae77dd1df918b1153fc2bd5fb80b42a27"
 metafile = true
 
 [[files]]
