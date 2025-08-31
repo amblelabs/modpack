@@ -773,6 +773,10 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ait-server-pack_fixeded.zip"
+hash = "1ccfc47f079ea21a8d809fcbfdf71115c882d2c0bc14ed24f282979f8ca4ec2e"
+
+[[files]]
 file = "resourcepacks/better-hex-particle.pw.toml"
 hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
 metafile = true
