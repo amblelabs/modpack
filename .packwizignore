@@ -5,3 +5,5 @@ shell.nix
 *.disabled
 updates
 build
+*.bat
+*.sh

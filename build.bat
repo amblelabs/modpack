@@ -1,0 +1,1 @@
+packwiz mr export --output build/AIT-Remixed.mrpack

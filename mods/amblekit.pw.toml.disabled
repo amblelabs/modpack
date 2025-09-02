@@ -1,0 +1,13 @@
+name = "AmbleKit"
+filename = "amble-1.1.8.93-1.20.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZNWAUUsB/versions/Gxyxyc6q/amble-1.1.8.93-1.20.1-beta.jar"
+hash-format = "sha512"
+hash = "3f6f87389678e312353b13ceba3d43f9c4d9e881e86ac7d2e572d17e25e851f91a300c975384889e027a4ee71f436c696ec471ce5e08baaa245202cc5f84437c"
+
+[update]
+[update.modrinth]
+mod-id = "ZNWAUUsB"
+version = "Gxyxyc6q"

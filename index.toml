@@ -107,14 +107,12 @@ hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
 
 [[files]]
-file = "mods/ait-extras.pw.toml"
-hash = "f3382e964603d7a43e4b574ad2324c349d75cfb118c6da644682e1ad6004070f"
-metafile = true
+file = "mods/ait-1.2.12-build+mc.1.20.1.jar"
+hash = "33c9350f126191ea164cae2755188b27e5a198b077f878d3eb70110411d790e7"
 
 [[files]]
-file = "mods/ait.pw.toml"
-hash = "5aceea49982551a8dd7f2d16c924e0916e7dbda614d8612daed04f7475afa7b7"
-metafile = true
+file = "mods/ait-extras-1.0.2-1.20.1-release.jar"
+hash = "5c0dacad635bc1be7d6ded6b927f7c926a3d54321e8acbc56777edb1183a6946"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -127,9 +125,8 @@ hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
 
 [[files]]
-file = "mods/amblekit.pw.toml"
-hash = "08cf6455874e90e49a2b11a79d0c6f1d7da37b405ae1f837b71f5d703477280e"
-metafile = true
+file = "mods/amble-1.1.14.79-1.20.1-beta.jar"
+hash = "acd87ed16d778297ec09a6d0618845858c1e98d3879f19faf379bae370bc0021"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -234,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
