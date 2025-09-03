@@ -62,7 +62,7 @@ hash = "150ad572f71ca86881252af3f8e48cf0aecccd26722b313d0d11b7b7e235e210"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "09be0b3f4855287c98527789a4c4d492b4e0cbe5cafa5d4fbdf0e2e24c604927"
+hash = "f0318b61ecdce7ac26a844e314031e8f08f87bdc16348cbb6ebef6718b242f19"
 
 [[files]]
 file = "config/modpack-update-checker.txt"
