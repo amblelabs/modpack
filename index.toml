@@ -101,6 +101,10 @@ file = "icon.png"
 hash = "c3df62c0659a355ddcf4324e2f8cad89ee9e7d1980b8fc83a4ebf363d3eec3c4"
 
 [[files]]
+file = "mods/HexOverpowered-fabric-1.20.1-0.8.2-patched.jar"
+hash = "3bb4cd43d1e8742cdca973c78b776a3a71d831704438055f3a568a6a5ed949d2"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
 metafile = true
@@ -399,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/hexical.pw.toml"
 hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
-metafile = true
-
-[[files]]
-file = "mods/hexoverpowered.pw.toml"
-hash = "f08e01877b3eb40dc3e5825b636515020717a156c6c982db420b1563c5c9f3f8"
 metafile = true
 
 [[files]]
