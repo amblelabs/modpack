@@ -57,6 +57,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/hexcasting/server.json"
+hash = "150ad572f71ca86881252af3f8e48cf0aecccd26722b313d0d11b7b7e235e210"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "09be0b3f4855287c98527789a4c4d492b4e0cbe5cafa5d4fbdf0e2e24c604927"
 
@@ -93,7 +97,7 @@ file = "config/yosbr/servers.dat"
 hash = "39527772044133e94d4af337e6892aeeb2bd45f6903084c321c5e0b90170120d"
 
 [[files]]
-file = "logo.png"
+file = "icon.png"
 hash = "c3df62c0659a355ddcf4324e2f8cad89ee9e7d1980b8fc83a4ebf363d3eec3c4"
 
 [[files]]
@@ -364,11 +368,6 @@ hash = "9f968a9fc834ea9c200df1661504f2177695261057fd87e35cbc8a24f18f038b"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
-metafile = true
-
-[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
@@ -377,6 +376,10 @@ metafile = true
 file = "mods/hexcassettes.pw.toml"
 hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
 metafile = true
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.3-actually.jar"
+hash = "2d77c6227ca6a6742dc8b062b3873ef0bfa6d2dc77a6f8cb5a734490052265ad"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
