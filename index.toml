@@ -109,11 +109,6 @@ file = "mods/HexOverpowered-fabric-1.20.1-0.8.2-patched.jar"
 hash = "3bb4cd43d1e8742cdca973c78b776a3a71d831704438055f3a568a6a5ed949d2"
 
 [[files]]
-file = "mods/aa4-atlas.pw.toml"
-hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
@@ -139,11 +134,6 @@ metafile = true
 [[files]]
 file = "mods/amble-1.1.14.79-1.20.1-beta.jar"
 hash = "acd87ed16d778297ec09a6d0618845858c1e98d3879f19faf379bae370bc0021"
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
-metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -373,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "9f968a9fc834ea9c200df1661504f2177695261057fd87e35cbc8a24f18f038b"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "cad90a27c0cdf68a1d0b495ece4d1256c5b0a15a4d3ff97db8aad1ebbbe35019"
 metafile = true
 
 [[files]]
@@ -745,8 +740,8 @@ hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "0c06b69af1c6a57b9f8c66789bc112c7de3ba2882560ed1127f49229fe9451b3"
 metafile = true
 
 [[files]]
@@ -782,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/wearable-lanterns.pw.toml"
 hash = "8e895e14e1942c45b9050eafcda75f16e336271f8a9046ede1a75b853d8d01fc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
 metafile = true
 
 [[files]]
