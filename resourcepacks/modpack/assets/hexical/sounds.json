@@ -1,0 +1,36 @@
+{
+  "evoking_casts": {
+		"subtitle": "subtitles.hexical.evoking_casts",
+		"sounds": [
+      {
+        "name": "mob/allay/idle_without_item1"
+      },
+      {
+        "name": "mob/allay/idle_without_item2"
+      },
+      {
+        "name": "mob/allay/idle_without_item3"
+      },
+      {
+        "name": "mob/allay/idle_without_item4"
+      }
+    ]
+  },
+  "evoking_murmur": {
+		"subtitle": "subtitles.hexical.evoking_casts",
+		"sounds": [
+      {
+        "name": "mob/allay/idle_without_item1"
+      },
+      {
+        "name": "mob/allay/idle_without_item2"
+      },
+      {
+        "name": "mob/allay/idle_without_item3"
+      },
+      {
+        "name": "mob/allay/idle_without_item4"
+      }
+    ]
+  }
+}

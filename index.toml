@@ -853,6 +853,10 @@ file = "resourcepacks/modpack/assets/frooploof/textures/vortex/hudolin_third.png
 hash = "6f2b2eef839c8bd1cc201f75a45f30848ba79da806e624fe42d0774d0e8c12b8"
 
 [[files]]
+file = "resourcepacks/modpack/assets/hexical/sounds.json"
+hash = "152736e1708ba7d32e28db91b233e88fb8543e62de558cc88774dc79dc2afad0"
+
+[[files]]
 file = "resourcepacks/modpack/assets/jellyaurora/lang/en_us.json"
 hash = "8a6224d1f3f928f54547ae191aa7efa6349bdb3e774777ab5b04cca5f25dfd1b"
 
