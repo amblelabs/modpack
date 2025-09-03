@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-furniture-1.0pre3+fabric-1.20.1.jar"
-hash = "39277ae7f0ca85e865bd82bdd58fe603bcfec055b32a4b53d544b727afeb6b72"
+hash = "d9a8c39aa4dc2f934c350950a27411de00d2b3464bd074b2c073ec73a3607856"
 
 [[files]]
 file = "mods/yosbr.pw.toml"
