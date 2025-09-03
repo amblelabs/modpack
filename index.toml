@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "AIT"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/fancymenu/assets/empty.png"
 hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
 
@@ -451,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
 metafile = true
 
 [[files]]
