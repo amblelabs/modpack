@@ -62,7 +62,7 @@ hash = "150ad572f71ca86881252af3f8e48cf0aecccd26722b313d0d11b7b7e235e210"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "f0318b61ecdce7ac26a844e314031e8f08f87bdc16348cbb6ebef6718b242f19"
+hash = "8c9733cbf79d8cb6b2a6115a63c804cdc50058c5cd365cc86ecbfba73e4efc2b"
 
 [[files]]
 file = "config/modpack-update-checker.txt"
@@ -627,12 +627,12 @@ metafile = true
 
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
-hash = "80f6a2c2cd22db388c332cbdb03865ef9571ba3ad1390044ad00e27bd9c985c6"
+hash = "bded7a826b261f0e925468fb6b01419d1d375a675c87c49849e3a84145e11177"
 metafile = true
 
 [[files]]
 file = "mods/odyssey-claims.pw.toml"
-hash = "17009c6e2231242cc1673132342d3f4be28a7b1aaa6a2f35afa05807d4d70f6a"
+hash = "a341fe76a39246b0321458edb9528e24fa1015aa7eb96e4851b781c7e50c9063"
 metafile = true
 
 [[files]]

@@ -4,6 +4,10 @@
     "botania:mana_bomb"
   ],
   "only_disable_recipes": [
-    "botania:terraform_rod"
+    "botania:terraform_rod",
+    "ait:spacesuit_helmet",
+    "ait:spacesuit_chestplate",
+    "ait:spacesuit_leggings",
+    "ait:spacesuit_boots"
   ]
 }
