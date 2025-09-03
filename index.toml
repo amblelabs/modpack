@@ -311,6 +311,16 @@ hash = "5629568659cd84d843dc94850b34febe025c970f7236a5ee59a67ebb98269a7d"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "d1ce680af3e8611a1a0e04fc44284eb6222ea7613e310f8c7199066e2291e721"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
@@ -757,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
-metafile = true
-
-[[files]]
-file = "mods/trashslot.pw.toml"
-hash = "12ffd7d9d5511848c57fdb470668189171aba315fe15ff44522d10a57d7acd1d"
 metafile = true
 
 [[files]]
