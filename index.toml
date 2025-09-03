@@ -151,6 +151,11 @@ hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "010e9a3192f72083c181819dc942307735a12bcfb4690c2ec8a2be537bf42538"
 metafile = true
@@ -366,11 +371,6 @@ hash = "9f968a9fc834ea9c200df1661504f2177695261057fd87e35cbc8a24f18f038b"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "cad90a27c0cdf68a1d0b495ece4d1256c5b0a15a4d3ff97db8aad1ebbbe35019"
-metafile = true
-
-[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
@@ -512,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "37c1a6cf7cf2c6190133b51f0c8716e8d4e89aea455e54e57bcca0846168dddf"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
 metafile = true
 
 [[files]]
@@ -740,11 +745,6 @@ hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "0c06b69af1c6a57b9f8c66789bc112c7de3ba2882560ed1127f49229fe9451b3"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "87cddd7965a0f86b8e0e3b4c738c9b3a93a24bf523fa816d3e49250185d9fd13"
 metafile = true
@@ -772,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
+metafile = true
+
+[[files]]
+file = "mods/watson.pw.toml"
+hash = "4f589fd2787c43c69314d19d11fbfe8d029b271eae81cd41252683b1975de3dc"
 metafile = true
 
 [[files]]
