@@ -114,8 +114,8 @@ hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
 
 [[files]]
-file = "mods/ait-1.2.12-build.3+mc.1.20.1.jar"
-hash = "5f1200df176cf7d337d6d6740e901c65c3d8ecf12402fb99e6f80b1b6fcd8d24"
+file = "mods/ait-1.2.12-build.4+mc.1.20.1.jar"
+hash = "74f6ad494f76cae94038ee111b1d91a970c2cfa8b25e0893fd32f261fb84b7fb"
 
 [[files]]
 file = "mods/ait-extras-1.0.2-1.20.1-release.jar"
