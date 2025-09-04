@@ -316,11 +316,6 @@ hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "d1ce680af3e8611a1a0e04fc44284eb6222ea7613e310f8c7199066e2291e721"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
@@ -777,11 +772,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
-metafile = true
-
-[[files]]
-file = "mods/watson.pw.toml"
-hash = "4f589fd2787c43c69314d19d11fbfe8d029b271eae81cd41252683b1975de3dc"
 metafile = true
 
 [[files]]
