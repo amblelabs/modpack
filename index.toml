@@ -109,6 +109,10 @@ file = "mods/HexOverpowered-fabric-1.20.1-0.8.2-patched.jar"
 hash = "3bb4cd43d1e8742cdca973c78b776a3a71d831704438055f3a568a6a5ed949d2"
 
 [[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash = "064b98c0979d28b282661156208e5bcba2e9a0c851b2e312e6f0042b94297687"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
@@ -130,10 +134,6 @@ metafile = true
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
-
-[[files]]
-file = "mods/amble-1.1.14.79-1.20.1-beta.jar"
-hash = "acd87ed16d778297ec09a6d0618845858c1e98d3879f19faf379bae370bc0021"
 
 [[files]]
 file = "mods/amblekit.pw.toml"
@@ -672,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2a1f157f8e81bab45e1409d851656a9624086509aa3d8c44388234b9e8b4694f"
 metafile = true
 
 [[files]]
