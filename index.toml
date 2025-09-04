@@ -136,6 +136,11 @@ file = "mods/amble-1.1.14.79-1.20.1-beta.jar"
 hash = "acd87ed16d778297ec09a6d0618845858c1e98d3879f19faf379bae370bc0021"
 
 [[files]]
+file = "mods/amblekit.pw.toml"
+hash = "07a0c027639160036768679de45bdf4f0f1151051c9f0ce1e8ab417b961c2261"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
