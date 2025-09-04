@@ -750,6 +750,10 @@ hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
+file = "mods/tab-was-taken.toml"
+hash = "102cbf932cc1ec824c9be8a368f1da6e2301c6595a7dbfefd214c66feab3cd7f"
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "87cddd7965a0f86b8e0e3b4c738c9b3a93a24bf523fa816d3e49250185d9fd13"
 metafile = true
