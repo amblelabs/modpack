@@ -1,0 +1,13 @@
+name = "AIT Extras"
+filename = "ait-extras-1.0.2-1.20.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JhhRNCFa/versions/QhCtvtcV/ait-extras-1.0.2-1.20.1-release.jar"
+hash-format = "sha512"
+hash = "b367fcdee626525b03e3f1ef930515ce377759c0b8a3fcacaf348a27885b3f14b323df2dffbc50fe44107b9a5389002a1c3f9061f3c983856a41e158ef7ddc8c"
+
+[update]
+[update.modrinth]
+mod-id = "JhhRNCFa"
+version = "QhCtvtcV"

@@ -1,0 +1,13 @@
+name = "Adventures In Time - TARDIS"
+filename = "ait-1.2.12-release+mc.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZMP9ZjB9/versions/iqoMsymS/ait-1.2.12-release%2Bmc.1.20.1.jar"
+hash-format = "sha512"
+hash = "14256b95df93af0b8ea872ed1020ca6d42906f975f38cf9e4769770e75cdbbfc4a419a112d5aba9f90954adc30f7d6f44f3aa1027ae7fcfaea63fc3db922a659"
+
+[update]
+[update.modrinth]
+mod-id = "ZMP9ZjB9"
+version = "iqoMsymS"

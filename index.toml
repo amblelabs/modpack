@@ -114,12 +114,14 @@ hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
 
 [[files]]
-file = "mods/ait-1.2.12-build.4+mc.1.20.1.jar"
-hash = "74f6ad494f76cae94038ee111b1d91a970c2cfa8b25e0893fd32f261fb84b7fb"
+file = "mods/ait-extras.pw.toml"
+hash = "87e4092895fce69d5b04789549c07f8a662cb540c7feae0c879859ffb7a90862"
+metafile = true
 
 [[files]]
-file = "mods/ait-extras-1.0.2-1.20.1-release.jar"
-hash = "5c0dacad635bc1be7d6ded6b927f7c926a3d54321e8acbc56777edb1183a6946"
+file = "mods/ait.pw.toml"
+hash = "f253f5782350db736d4604dcc2fbf0e416fa149a1f8767be0d23e49742806775"
+metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
