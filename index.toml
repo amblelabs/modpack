@@ -94,7 +94,7 @@ hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "60874fbb432850d39b3feb7457adbdf2d723f8cc9a5d16170e78ad75611f692e"
+hash = "2338217efa77910170c0202772e3e4bf946f5ba31f9cddadc7910b6dfaa90775"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -304,6 +304,11 @@ hash = "5525baa8ad75041025127697dfb53232afee87c23ed56517f10577d3eaa04ec2"
 metafile = true
 
 [[files]]
+file = "mods/emojiless.pw.toml"
+hash = "f372edd5be96db4dd70f5ece5039afb8b66f032e60a1284539d9945eb3d5324c"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
 metafile = true
@@ -410,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/hexical.pw.toml"
 hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
-metafile = true
-
-[[files]]
-file = "mods/hexparse.pw.toml"
-hash = "e4d855e1c6941c683964e57b5889149d53c0d0d8e14af4f394493e490c0555ab"
 metafile = true
 
 [[files]]
@@ -783,11 +783,6 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -834,6 +829,58 @@ metafile = true
 [[files]]
 file = "resourcepacks/modpack/assets/ait/textures/gui/title/ait_logo.png"
 hash = "cb9188f079b5af7205e828c2c3bd00a411f771cdebcd83ad31bbf328e4f58041"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_clueless.png"
+hash = "968cd7057a54ac02d81ac4a547629ba12b7f9965eaa2593326fec8fc6596af84"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_fear.png"
+hash = "0c196fd1893a44fdb834348d4bcded5cc025aeb85955c397f063a732dd95039a"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_fire.png"
+hash = "17e01f821056b0136266fb74611d17d5c0cb6ce29444ac54b666ff0fb4cd8bd8"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_glare.png"
+hash = "d0a663f2678961bb5896c455fca686c88bf84aab86c61c3342415d239e51a54c"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_haha.png"
+hash = "243e02cfbf28b8f6aa27def3eb0dfe14db42ef1d3cb64db9953955a9c6d3552c"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_house.png"
+hash = "53b2454a075e54b20420f6e6540c595c2b8dfa5bdfc2f04dda36a28c05aa0cf0"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_iamevil.png"
+hash = "a321ab9478db90939960332387bb7fef907c69cf7f160a62a6bae6786a13c4b9"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_like.png"
+hash = "fd14e7d79486eb0b625d76664af3d6d438209f6edf215c1a060f114f282e34d3"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_peanut.png"
+hash = "a18611f7002bd283080b52f5f818293cf321f034fc928942689a29a1282b54dd"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_troll.png"
+hash = "d10b4bc76b14a959f16a05a70e6b638e836db44c3697785007cb63f0a0fd42a6"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_widesmile.png"
+hash = "41741a612eb0c14b51bbd72c22ff8465a0ba5850b9424a63062cd5ecbfda6787"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_yousure.png"
+hash = "de9d2e5060d961a6bc16e0db7ff45da7ad20708377a5b35664a83f7b1d584c43"
+
+[[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_youwhat.png"
+hash = "a38083cca5399082107f2951d7e890ee39cc2cbcd49c53fcdc29e6db64bfa970"
 
 [[files]]
 file = "resourcepacks/modpack/assets/auroranyxs/lang/en_us.json"
