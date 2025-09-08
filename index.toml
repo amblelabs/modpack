@@ -996,11 +996,6 @@ hash = "6fc23902cda83151410b9fc966aa52e3673c8009faf5c6ba1d857055cd05f597"
 metafile = true
 
 [[files]]
-file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
