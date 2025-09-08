@@ -62,7 +62,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "150ad572f71ca86881252af3f8e48cf0aecccd26722b313d0d11b7b7e235e210"
+hash = "f19138ddf3582e74d39fa1a139195fdb3a02b9c5bb55b870a74131a733e869b9"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -122,6 +122,10 @@ metafile = true
 file = "mods/ait.pw.toml"
 hash = "f253f5782350db736d4604dcc2fbf0e416fa149a1f8767be0d23e49742806775"
 metafile = true
+
+[[files]]
+file = "mods/aitremixed-0.0.0.jar"
+hash = "a6f3ebd139b9f5adbf858243a87ca0c133824e89afe53a2b1b623041bfd84b8b"
 
 [[files]]
 file = "mods/almanac.pw.toml"
