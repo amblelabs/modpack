@@ -1,4 +1,6 @@
 ## Fixed:
+- Fixed "Modpack Update Checker"
+
+## Removed:
 - Removed "No Social Interactions"
 - Removed chat reports from the game
-- Fixed modpack update checker
