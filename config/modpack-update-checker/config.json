@@ -1,9 +1,9 @@
 {
   "schemaVersion": 6,
-  "currentVersion": "0.0.0",
-  "modpackName": "AIT Modpack De-Loqorified",
-  "modpackAuthor": "DrTheo_",
-  "modpackReleaseType": "alpha",
+  "currentVersion": "1.0.1",
+  "modpackName": "AIT: Remixed",
+  "modpackAuthor": "DrTheo_, AmbleLabs Moderation Team",
+  "modpackReleaseType": "release",
   "githubRepo": "https://raw.githubusercontent.com/amblelabs/modpack/updates/",
   "advanced": {
     "bccEnabled": false,
