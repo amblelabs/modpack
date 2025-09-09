@@ -1,5 +1,6 @@
 ## Fixed:
 - Fixed "Modpack Update Checker"
+- Spells generate correctly in loot tables now
 
 ## Removed:
 - Removed "No Social Interactions"
