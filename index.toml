@@ -69,12 +69,12 @@ file = "config/item_obliterator.json5"
 hash = "352e00afd86fc9512bb5c85b5d90fa9821867991f27909dcb327f6d7e4a408d8"
 
 [[files]]
-file = "config/modpack-update-checker.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/modpack-update-checker-info.txt"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "857b1db2a3707f987bed20b6e96815cad8b64c04d79cb3e207b899aa0a33c2b8"
+hash = "4fb9bf35af3669113cba4fb9857807459d5fa8b092ad0753cd1bcd9434fae7fb"
 
 [[files]]
 file = "config/yosbr/config/ait-client.json5"
@@ -94,7 +94,7 @@ hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2338217efa77910170c0202772e3e4bf946f5ba31f9cddadc7910b6dfaa90775"
+hash = "1f72f1ac5dc66ae124fc4c6fc058afa32d51e7390718cb4b018c348a785e8693"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "a6f3ebd139b9f5adbf858243a87ca0c133824e89afe53a2b1b623041bfd84b8b"
+hash = "f0e65a800e9d3e8c5685d7db172eed6c15c38c539f27083aba4c49ab2fa7a0e4"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -170,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "a10f7f1072508bbe2d8d9cd9ce980cabc46805568ae9f055a5f47622aead26a7"
 metafile = true
 
 [[files]]
@@ -363,11 +358,6 @@ hash = "fcfd264784dcda039d9efc0b3e47ef1f04521698761a34d2f20379d5f9c0fe26"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
 metafile = true
@@ -429,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/hexthingy.pw.toml"
 hash = "a12033b30bacf51de49b79599cf4d02591bbdac978f14a6a8b4b245e718f52da"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "304fda9dadcfbc199dd2415aba2a164cb2f31fea6b44ed242271fef6fb194174"
 metafile = true
 
 [[files]]
@@ -532,6 +527,10 @@ hash = "37c1a6cf7cf2c6190133b51f0c8716e8d4e89aea455e54e57bcca0846168dddf"
 metafile = true
 
 [[files]]
+file = "mods/lapisworks-1.5.1.5.jar"
+hash = "4971e12fe7d3cdd44bfc08608f1c38eeca102ad5917f29b0b439d9503949214c"
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
 metafile = true
@@ -632,11 +631,6 @@ hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
 metafile = true
 
 [[files]]
-file = "mods/nrb.pw.toml"
-hash = "01fbfe47f46c3d24169084576e6bd4f622a45660a6dd6259f82d4ad61073d762"
-metafile = true
-
-[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f404b8f2227c496972da6647710a5691acbbd0f15e1951fc7b225970bb1b4da2"
 metafile = true
@@ -654,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/odyssey-claims.pw.toml"
 hash = "a341fe76a39246b0321458edb9528e24fa1015aa7eb96e4851b781c7e50c9063"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
@@ -804,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
 
 [[files]]
