@@ -70,11 +70,11 @@ hash = "352e00afd86fc9512bb5c85b5d90fa9821867991f27909dcb327f6d7e4a408d8"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+hash = "1ed95e828883e44484c3c750bc2cdb3d49c9fd96001dc9adbce860012261129a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "4fb9bf35af3669113cba4fb9857807459d5fa8b092ad0753cd1bcd9434fae7fb"
+hash = "8e091189327f1a1265957140b042f4211dafd9a5bd9aab51bd76900f895e95db"
 
 [[files]]
 file = "config/yosbr/config/ait-client.json5"

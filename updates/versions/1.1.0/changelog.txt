@@ -1,7 +1,13 @@
 ## Fixed:
 - Fixed "Modpack Update Checker"
 - Spells generate correctly in loot tables now
+- Disabled interactions between create and ad astra
 
 ## Removed:
 - Removed "No Social Interactions"
 - Removed chat reports from the game
+- Removed unnecessary mods on the client side
+
+## Added:
+- lapisworks
+- xaeros world map
