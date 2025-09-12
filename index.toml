@@ -879,6 +879,10 @@ file = "resourcepacks/modpack/assets/amblemojis/emojis/al_peanut.png"
 hash = "a18611f7002bd283080b52f5f818293cf321f034fc928942689a29a1282b54dd"
 
 [[files]]
+file = "resourcepacks/modpack/assets/amblemojis/emojis/al_shrug.png"
+hash = "14da1f535513d6771dadf53bf205870f6065f361c2e780076385195edf04b665"
+
+[[files]]
 file = "resourcepacks/modpack/assets/amblemojis/emojis/al_troll.png"
 hash = "d10b4bc76b14a959f16a05a70e6b638e836db44c3697785007cb63f0a0fd42a6"
 
