@@ -22,7 +22,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "67c3830dc15adea309b6370739bd7f4c2d8b7375e094a7cb5fb60a652b0ff09d"
+hash = "8f3bc1445578c0229aadddfbfcf71f4d887ba20c0c463e315fc725d175b1d92f"
 
 [[files]]
 file = "config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
@@ -42,7 +42,7 @@ hash = "99679d2e76dfa92457f25275c99b477cac6b02df9335fddf5c19bfa8a9752379"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "458ff31e54ffa5b11cde6cc4807714e0be2709e340f3f1922b1078f52c7bf2b3"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"

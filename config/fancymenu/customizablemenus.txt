@@ -9,3 +9,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 net.minecraft.class_433 {
 }
 
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+
