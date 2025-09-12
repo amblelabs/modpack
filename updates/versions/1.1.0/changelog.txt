@@ -11,3 +11,4 @@
 ## Added:
 - xaeros world map
 - hextweaks
+- :al_shrug: emoji
