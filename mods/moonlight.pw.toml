@@ -1,0 +1,13 @@
+name = "Moonlight Lib"
+filename = "moonlight-1.20-2.16.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/DDO66v6Q/moonlight-1.20-2.16.10-fabric.jar"
+hash-format = "sha512"
+hash = "9200c16fd9cf3372bd30254b29d48cb79fae3b1f53b1ecd3bf0aa99ed447eb469070bb863e40fb1748c457b24a241be93915e094f254d045e6b65af660eec550"
+
+[update]
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "DDO66v6Q"

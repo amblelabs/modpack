@@ -25,6 +25,10 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "67c3830dc15adea309b6370739bd7f4c2d8b7375e094a7cb5fb60a652b0ff09d"
 
 [[files]]
+file = "config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
+hash = "43149f0573ac6003f9ab5126faf3f938d8fa4161444c119ecf90bd896977e8a2"
+
+[[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "97e15cec7f1daa9b24a41e05e5b3ee745cbc053d5a5678e8aa91af6062a36aff"
 
@@ -74,7 +78,7 @@ hash = "1ed95e828883e44484c3c750bc2cdb3d49c9fd96001dc9adbce860012261129a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "8e091189327f1a1265957140b042f4211dafd9a5bd9aab51bd76900f895e95db"
+hash = "42731ae9d4211d7d76ac584f90e961a9d115b2b8e07540dbe88395f2edf823d3"
 
 [[files]]
 file = "config/yosbr/config/ait-client.json5"
@@ -576,6 +580,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -593,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
 hash = "3aaa85a86f4a404a40bed5951e65eef8caaed5f3d570700273d8801c16ccbdbf"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "072afc1a6bb28255331e7c3f2cbebcef40d6961f2eb10c1aec15aabf65a7596b"
 metafile = true
 
 [[files]]

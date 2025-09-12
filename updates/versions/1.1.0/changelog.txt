@@ -9,5 +9,4 @@
 - Removed unnecessary mods on the client side
 
 ## Added:
-- lapisworks
 - xaeros world map
