@@ -10,3 +10,4 @@
 
 ## Added:
 - xaeros world map
+- hextweaks
