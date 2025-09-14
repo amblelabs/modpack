@@ -78,7 +78,7 @@ hash = "1ed95e828883e44484c3c750bc2cdb3d49c9fd96001dc9adbce860012261129a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "8e091189327f1a1265957140b042f4211dafd9a5bd9aab51bd76900f895e95db"
+hash = "c15173f970a6a51abfbb2171ef4cb78411a631311cca73d504747510f2cb6006"
 
 [[files]]
 file = "config/yosbr/config/ait-client.json5"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "f41eba1c786405a09b2d566cadd6c6284668b28fb40d9945678c4af1b4e009a2"
+hash = "3cab0eb2096e509134b593b061dc0fdfd3283d09a3469383a4e20cfef3a681eb"
 
 [[files]]
 file = "mods/almanac.pw.toml"

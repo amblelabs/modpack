@@ -3,7 +3,7 @@
   "currentVersion": "1.1.0",
   "modpackName": "AIT: Remixed",
   "modpackAuthor": "DrTheo_, AmbleLabs Moderation Team",
-  "modpackReleaseType": "release",
+  "modpackReleaseType": "stable",
   "githubRepo": "https://raw.githubusercontent.com/amblelabs/modpack/updates/",
   "advanced": {
     "bccEnabled": false,
