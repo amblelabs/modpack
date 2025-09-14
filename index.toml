@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "3cab0eb2096e509134b593b061dc0fdfd3283d09a3469383a4e20cfef3a681eb"
+hash = "ba8131d8b3565c23c97984abd3e4118158f042e11e557c02a63aad820600d877"
 
 [[files]]
 file = "mods/almanac.pw.toml"
