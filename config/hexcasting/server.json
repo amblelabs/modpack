@@ -4,7 +4,8 @@
   "maxSpellCircleLength": 1024,
   "actionDenyList": [
     "hexoverpowered:yjsp_media",
-    "hexdim:dim/create"
+    "hexdim:dim/create",
+    "hexcasting:interop/pehkui/set"
   ],
   "circleActionDenyList": [],
   "villagersOffendedByMindMurder": true,

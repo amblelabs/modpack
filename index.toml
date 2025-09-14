@@ -66,7 +66,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "f19138ddf3582e74d39fa1a139195fdb3a02b9c5bb55b870a74131a733e869b9"
+hash = "8b0830990d4604d72ab7cd29487d284253e2563c71fdfb67d5fee1b1805cb141"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "f0e65a800e9d3e8c5685d7db172eed6c15c38c539f27083aba4c49ab2fa7a0e4"
+hash = "f41eba1c786405a09b2d566cadd6c6284668b28fb40d9945678c4af1b4e009a2"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
+hash = "58fdb6a64d4afc5fc33004ba4bb9af0638f350fcffeca52f55ae96af5156aa51"
 metafile = true
 
 [[files]]
