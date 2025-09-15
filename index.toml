@@ -78,7 +78,7 @@ hash = "1ed95e828883e44484c3c750bc2cdb3d49c9fd96001dc9adbce860012261129a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "c15173f970a6a51abfbb2171ef4cb78411a631311cca73d504747510f2cb6006"
+hash = "57956825397d7776230390e8a71ab61936d20a23ee3edce5156037a32fe5f062"
 
 [[files]]
 file = "config/yosbr/config/ait-client.json5"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ait-extras.pw.toml"
-hash = "87e4092895fce69d5b04789549c07f8a662cb540c7feae0c879859ffb7a90862"
+hash = "010a62dab48847da93e1cca0a41b25189abcb613999ae1887a520f05d8989b49"
 metafile = true
 
 [[files]]
@@ -997,6 +997,62 @@ hash = "f34a2e9b82cae9cadf32b8974c32bac595a3fa8fe25a8398e71041ffa3295b33"
 [[files]]
 file = "resourcepacks/modpack/assets/maggie/textures/blockentities/exteriors/police_box/police_box_toyotaprime_emission.png"
 hash = "8692c9c14e9ab72fe83b7aa1ff2f674598d1f0d9140e8d5622acffcc92c976b1"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier/inactive.json"
+hash = "654afaa7275a133b5b9ae3c49a39ffa2e8c68a63d80fc037331a68c1938edc49"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier/interaction.json"
+hash = "6c786ee151f3f1f2b663e47712ec71c36d9dc69abc272ed4491a2a3c9c9aa2df"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier/overload.json"
+hash = "33f78e4a1b42b46425f31ff02a4f62757e61419b3ba7bcdfb6faef0dfd8e0a77"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier/scanning.json"
+hash = "03626a7b1a3cf8990f0aa63d7e90d20de8b5a903fa0e1c49ed144f8ed34af4b5"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier/tardis.json"
+hash = "7737d269263f72fc1bc7871a325f5990e0d61272945b5692c4c1b51cf490b01a"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/models/item/sonic/frontier_sonic.json"
+hash = "2326667e59bf6cd444d0cb647d72187f6bacf9ce473cc8199a7dc44c470abce8"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/inactive.png"
+hash = "d47ac4bfc16bb9f14ee036c3bc98fceeb9ccb4d13a67a81be2f1fc788f5f5145"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/interaction.png"
+hash = "7290a44753f0a429742bb779f942bc701d7eaec8e436bf2d8bba61652494f8c2"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/overload.png"
+hash = "f1bf5f31cc836fc8660e87ecadee093f5987b11a226b334aa6f83225dcda604e"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/overload.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/scanning.png"
+hash = "6dc3a989a8c733716fc6660dfa0ed73a9d263c585a01c5a9111c411651f4ec98"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/scanning.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/tardis.png"
+hash = "ae6e38e885e04bf15b3490868b2dfda15559b78f41cb2be1805cc21bf571795b"
+
+[[files]]
+file = "resourcepacks/modpack/assets/ob/textures/item/sonic_tools/tardis.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
 
 [[files]]
 file = "resourcepacks/modpack/pack.mcmeta"
