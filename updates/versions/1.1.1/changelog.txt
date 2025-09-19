@@ -1,3 +1,6 @@
-# Fixes:
+## Fixes:
 - Fix hexcasting enlightenment
+- Updated AIT Extras
 
+## Added:
+- Ouro's new sonic stuff
