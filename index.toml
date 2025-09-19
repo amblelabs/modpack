@@ -70,7 +70,7 @@ hash = "8b0830990d4604d72ab7cd29487d284253e2563c71fdfb67d5fee1b1805cb141"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "352e00afd86fc9512bb5c85b5d90fa9821867991f27909dcb327f6d7e4a408d8"
+hash = "c1176ee76d5d8d333042d5eea4577733384fa9bebd6c976d1dd2c284d5a5ec2e"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "ba8131d8b3565c23c97984abd3e4118158f042e11e557c02a63aad820600d877"
+hash = "a707db17204636cb43da7f8d87a067138c02009014ac19a0f856b3d1655e11c4"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -529,10 +529,6 @@ metafile = true
 file = "mods/language-reload.pw.toml"
 hash = "37c1a6cf7cf2c6190133b51f0c8716e8d4e89aea455e54e57bcca0846168dddf"
 metafile = true
-
-[[files]]
-file = "mods/lapisworks-1.5.1.5.jar"
-hash = "4971e12fe7d3cdd44bfc08608f1c38eeca102ad5917f29b0b439d9503949214c"
 
 [[files]]
 file = "mods/ledger.pw.toml"

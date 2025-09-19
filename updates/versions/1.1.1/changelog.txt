@@ -1,6 +1,10 @@
 ## Fixes:
 - Fix hexcasting enlightenment
 - Updated AIT Extras
+- Feeble Mind 2 now affects amethyst tools and armor
+
+## Removed:
+- copycat bytes recipe
 
 ## Added:
 - Ouro's new sonic stuff
