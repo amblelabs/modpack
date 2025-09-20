@@ -70,7 +70,7 @@ hash = "8b0830990d4604d72ab7cd29487d284253e2563c71fdfb67d5fee1b1805cb141"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "c1176ee76d5d8d333042d5eea4577733384fa9bebd6c976d1dd2c284d5a5ec2e"
+hash = "3993fc7f18a16601c8c19be2011b179754a8d981e4c945019fa39f521dede556"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "a707db17204636cb43da7f8d87a067138c02009014ac19a0f856b3d1655e11c4"
+hash = "96e0ff585a525f62765724875d545a3728019b035534aa4f4f51e77ffed61b1a"
 
 [[files]]
 file = "mods/almanac.pw.toml"

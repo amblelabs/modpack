@@ -8,3 +8,6 @@
 
 ## Added:
 - Ouro's new sonic stuff
+- Ender eye recipe
+- Heal spell
+- HexTweaks
