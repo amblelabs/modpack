@@ -1,0 +1,13 @@
+name = "Hex Casting"
+filename = "hexcasting-fabric-1.20.1-0.11.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nTW3yKrm/versions/PqdeU0a7/hexcasting-fabric-1.20.1-0.11.3.jar"
+hash-format = "sha512"
+hash = "fa56e4163dd306bf96c1dcc2cd5e3c9a0247024d428baee10e92ddec7c5b76ccc774e880a6058f068fafcbd17316273458c8f4e7b309da9d56c15459710a59ba"
+
+[update]
+[update.modrinth]
+mod-id = "nTW3yKrm"
+version = "PqdeU0a7"

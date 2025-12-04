@@ -1,12 +1,12 @@
 name = "AIT Remixed"
 author = "DrTheo_, AmbleLabs Moderation Team"
-version = "1.1.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "936c51dbf59d242d8297ef998aa7197fee2ff0a953fd6861543ea5ae8fc00700"
+hash = "545678ba286f08857c6c5a942bfd28ee89803b8bdf2f34374c2891d30e740206"
 
 [versions]
 fabric = "0.17.2"

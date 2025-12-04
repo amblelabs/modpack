@@ -1,0 +1,13 @@
+name = "More obvious amethyst growth"
+filename = "MoreObviousAmethystGrowth.v0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/owKmWA7r/versions/bibroEl9/MoreObviousAmethystGrowth.v0.1.zip"
+hash-format = "sha512"
+hash = "3b36eec18b44fc76276142e468199090224273ea9e4f13c336418487fc1819baca821a06e9b2125e03f914f52596a5ced3db976d45f21acb763a32438fe1017d"
+
+[update]
+[update.modrinth]
+mod-id = "owKmWA7r"
+version = "bibroEl9"
