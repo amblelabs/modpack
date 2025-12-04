@@ -367,11 +367,6 @@ file = "mods/hexical-2.0.0-a3c47ad.jar"
 hash = "59e22a1b57e1517dbc617c680d032e40411bd853adf955b1c57758ddcb809cf0"
 
 [[files]]
-file = "mods/hexoverpowered.pw.toml"
-hash = "e2cc2f390787af70dc7cb99b81fdb61b06f7a9d717765531b42ac92ddb199209"
-metafile = true
-
-[[files]]
 file = "mods/hexpose.pw.toml"
 hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
 metafile = true
@@ -539,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
-metafile = true
-
-[[files]]
-file = "mods/loqors-weeping-angels.pw.toml"
-hash = "03e00e75403e4754f12fef00a6b18583b3454865bda88cfe6bbbf4eda2fc296b"
 metafile = true
 
 [[files]]
