@@ -363,8 +363,8 @@ hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
 metafile = true
 
 [[files]]
-file = "mods/hexical-2.0.0-a3c47ad.jar"
-hash = "59e22a1b57e1517dbc617c680d032e40411bd853adf955b1c57758ddcb809cf0"
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexpose.pw.toml"
