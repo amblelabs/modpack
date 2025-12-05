@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/aitremixed-0.0.0.jar"
-hash = "548bef27d1df7ffffef8c3ce56205e13eb23824243fb2db4d2b31f3c0f700499"
+hash = "7ca43d19529f4e15ca243572be1568dc90f6fdd977e90665333b29110ab6a588"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -318,6 +318,11 @@ hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "d8178bc909f07e30d50bb7c9a5f34130b6c7847b70043974fec450cc62dd9402"
 metafile = true
@@ -340,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
 
 [[files]]
